@@ -22,8 +22,6 @@ namespace Clientside {
         public Main() {
             //Chat.Output("Loaded Clientside.Main");
 
-            //RAGE.Discord.Update("Zuluhotel RP (Dev)", "As Owner");
-
             Tick += OnTick;
         }
 
