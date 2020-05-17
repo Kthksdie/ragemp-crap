@@ -1,0 +1,5 @@
+﻿<meta>
+    <info name="Serverside" author="Kthksdie" type="script" />
+    <script src="compiled\netcoreapp2.2\Serverside.dll"/>
+    <script src="compiled\netcoreapp2.2\Common.dll"/>
+</meta>

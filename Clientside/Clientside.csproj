@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\ClientLogin.cs~RF1261ac19.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="rage-sharp">
+      <HintPath>..\..\runtime\rage-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy /y /s &quot;$(ProjectDir)*.cs&quot; &quot;E:\RAGEMP\server-files\client_packages\cs_packages&quot; /exclude:.\Exclusions.txt" />
+  </Target>
+
+</Project>
