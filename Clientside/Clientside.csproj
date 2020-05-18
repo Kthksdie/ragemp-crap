@@ -14,6 +14,10 @@
     </Reference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="client_packages\ActionsMenu\ui\images\" />
+  </ItemGroup>
+
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="xcopy /y /s &quot;$(ProjectDir)*.cs&quot; &quot;E:\RAGEMP\server-files\client_packages\cs_packages&quot; /exclude:.\Exclusions.txt" />
   </Target>

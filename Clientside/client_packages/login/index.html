@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="../content/semantic.min.js"></script>
+    <link href="../content/semantic.min.css" rel="stylesheet" type="text/css">
+    <link href="../content/global.css" rel="stylesheet" type="text/css">
+
+    <link href="content/ui.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    
+    <div class="ui middle aligned center aligned grid" style="padding-top: 240px;">
+        <div id="loginContainer" class="row" style="">
+            <div class="column" style="max-width: 480px;">
+                <form id="loginForm" class="ui large form">
+                    <div class="ui segment">
+                        <div class="field">
+                            <div class="ui left icon input">
+                                <i class="user icon"></i>
+                                <input type="text" name="username" placeholder="Username">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <div class="ui left icon input">
+                                <i class="lock icon"></i>
+                                <input type="password" name="password" placeholder="Password">
+                            </div>
+                        </div>
+                        <div class="two fields">
+                            <div class="field">
+                                <div class="ui fluid large blue button" onclick="submitLogin(); return false;">Login</div>
+                            </div>
+                            <div class="field">
+                                <div class="ui fluid large green button" onclick="showHelp(); return false;">Help</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="ui error message"></div>
+                </form>
+
+                <div class="ui message">
+                    <p><strong>New to us?</strong><br />Specify your desired username and password above to login.<br />Your account will be provisioned automatically.</p>
+                </div>
+            </div>
+        </div>
+        <div id="helpContainer" class="row" style="display: none;">
+            <div class="column" style="max-width: 480px;">
+                <form id="helpForm" class="ui large form">
+                    <div class="ui segment">
+                        <div class="field">
+                            <div class="ui left icon input">
+                                <i class="user icon"></i>
+                                <input type="text" name="username" placeholder="Username">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <label>What's the problem?</label>
+                            <textarea name="message"></textarea>
+                        </div>
+                        <div class="two fields">
+                            <div class="field">
+                                <div class="ui fluid large blue button" onclick="submitHelp(); return false;">Submit</div>
+                            </div>
+                            <div class="field">
+                                <div class="ui fluid large green button" onclick="hideHelp(); return false;">Cancel</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="ui error message"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div id="invisible" style="display:none"></div>
+
+    <script type="text/javascript">
+        var loginContainer = $('#loginContainer');
+        var helpContainer = $('#helpContainer');
+
+        var loginForm = $('#loginForm');
+        var helpForm = $('#helpForm');
+
+        function showHelp() {
+            loginContainer.hide();
+            helpContainer.show();
+        }
+
+        function hideHelp() {
+            helpContainer.hide();
+            loginContainer.show();
+        }
+
+        function setUsername(socialClubName) {
+            loginForm.form('set value', 'username', socialClubName);
+            helpForm.form('set value', 'username', socialClubName);
+        }
+
+        function submitLogin() {
+            loginForm.addClass('loading');
+
+            var username = loginForm.form('get value', 'username');
+            var password = loginForm.form('get value', 'password');
+
+            mp.trigger('ExecuteRemoteEvent', 'RequestPlayerLogin', username, password);
+        }
+
+        function submitHelp() {
+            helpForm.addClass('loading');
+
+            var username = helpForm.form('get value', 'username');
+            var message = helpForm.form('get value', 'message');
+
+            mp.trigger('ExecuteRemoteEvent', 'SubmitPlayerHelp', username, message);
+        }
+
+        function loginError(message) {
+            loginForm.removeClass('loading');
+            helpForm.removeClass('loading');
+
+            $('#loginForm').form('add errors', [message]);
+        }
+    </script>
+
+    <script type="text/javascript">
+
+    </script>
+</body>
+</html>

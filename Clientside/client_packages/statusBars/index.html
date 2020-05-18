@@ -1,0 +1,327 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:900" rel="stylesheet">
+    <!--<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+    <script src="../content/semantic.min.js"></script>
+    <link href="../content/semantic.min.css" rel="stylesheet" type="text/css">
+    <link href="../content/global.css" rel="stylesheet" type="text/css">
+
+    <link href="content/ui.css" rel="stylesheet" type="text/css">
+    <link href="content/speedo.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div id="barContainer" style="position: relative; float: right;">
+        <div style="width: 240px;">
+            <div id="staticBars" class="ui inverted segment">
+
+            </div>
+            <div id="tempBars" class="ui inverted segment" style="display: none;">
+
+            </div>
+        </div>
+    </div>
+
+    <div style="position: relative; float: right; margin-right: 0.5em;">
+        <div style="width: 240px;">
+            <div id="statBars" class="ui inverted segment">
+
+            </div>
+        </div>
+    </div>
+
+    <div class="gpsContainer">
+        <img id="gpsMap" src="../content/images/GTAV_MAP_2048_ATLUS.jpg" />
+    </div>
+
+    <div class="speedo" style="display: none;">
+        <!--<div class="bg"></div>
+        <div class="lines">
+            <span><span class="text">10</span></span>
+            <span><span class="text">20</span></span>
+            <span><span class="text">30</span></span>
+            <span><span class="text">40</span></span>
+            <span><span class="text">80</span></span>
+            <span><span class="text">120</span></span>
+            <span><span class="text">160</span></span>
+            <span><span class="text">200</span></span>
+            <span><span class="text">240</span></span>
+        </div>
+        <div class="rot" id="rpm">
+            <div class="indicator">
+            </div>
+        </div>-->
+        <div class="center">
+            <div class="inner">
+                <!--<span class="small feat" id="gear">0</span>-->
+                <span><span id="speed">0</span><sub>mph</sub></span>
+                <!--<span class="small" id="time">0</span>-->
+            </div>
+        </div>
+    </div>
+
+    <!--<div style="position: relative; float: right; margin-right: 0.5em;">
+        <div style="width: 240px;">
+            <div id="vehBars" class="ui inverted segment">
+                <div class="ui equal width grid">
+                    <div class="row">
+                        <div class="one wide column">
+                            <i class="inverted tachometer alternate icon"></i>
+                        </div>
+                        <div class="six wide center aligned column">
+                            <span>115</span>
+                        </div>
+                        <div class="one wide right aligned column">
+                            <span>MPH</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="one wide column">
+                            <i class="green money bill alternate icon"></i>
+                        </div>
+                        <div class="six wide center aligned column">
+                            <span>$1,150,000</span>
+                        </div>
+                        <div class="one wide right aligned column">
+                            <span>Cash</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="one wide column">
+                            <i class="filter icon"></i>
+                        </div>
+                        <div class="six wide center aligned column">
+                            <span>100</span>
+                        </div>
+                        <div class="one wide right aligned column">
+                            <span>Fuel</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>-->
+
+    <div id="invisible" style="display:none"></div>
+
+    <script type="text/javascript">
+
+        function Show3DMessage_v1(id, message, x, y) {
+            var messageSegment = $(`#${id}`);
+            if (messageSegment.length == 0) {
+                messageSegment = $(`<div id="${id}" class="ui inverted compact segment" style="display: none;" />`);
+
+                $(`body`).append(messageSegment);
+            }
+
+            messageSegment.text(message);
+
+            var display = "unset";
+            if (x == -1 && y == -1) {
+                display = "none";
+            }
+
+            var messageWidth = messageSegment.width() / 2;
+            x = x - messageWidth;
+
+            messageSegment.css({ 'position': 'fixed', 'top': `${y}px`, 'left': `${x}px`, 'display': display });
+        }
+
+        function Show3DMessage(id, message, x, y) {
+            var messageSegment = document.getElementById(id);
+
+            var display = "unset";
+            if (x == -1 && y == -1) {
+                display = "none";
+            }
+
+            messageSegment.textContent = message;
+
+            var messageWidth = messageSegment.style.width / 2;
+            x = x - messageWidth;
+
+            messageSegment.style.position = 'fixed';
+            messageSegment.style.display = display;
+
+            messageSegment.style.top = y + 'px';
+            messageSegment.style.left = x + 'px';
+        }
+
+        function Remove3DMessage(id) {
+            $(`#${id}`).remove();
+        }
+
+    </script>
+
+    <script type="text/javascript">
+        function AddStaticStatusBar(id, icon, color, total = 10, value = 0) {
+            AddStatusBar('staticBars', id, icon, color, total, value);
+        }
+
+        function AddStatStatusBar(id, icon, color, total = 10, value = 0) {
+            AddStatusBar('statBars', id, icon, color, total, value);
+        }
+
+        function AddTempStatusBar(id, icon, color, total = 10, value = 0) {
+            AddStatusBar('tempBars', id, icon, color, total, value);
+        }
+
+        function AddStatusBar(container, id, icon, color, total = 10, value = 0) {
+            var barContainer = $(`#${container}`);
+
+            barContainer.append(
+                $(`<div id="${id}" class="ui ${color} inverted progress">`)
+                    .append($('<div class="bar">')
+                        .append(`<i class="black ${icon} icon">`)));
+
+            $(`#${id}`).progress({
+                autoSuccess: false,
+                total: total,
+                value: value
+            });
+        }
+
+        function RemoveStatusBar(id) {
+            $(`#${id}`).remove();
+        }
+
+        function UpdateBasicNeedLevel(id, value) {
+            $(`#${id}`).progress('set progress', value);
+        }
+
+        AddStatStatusBar('HealthLevel', 'heartbeat', 'green', 200, 0);
+        AddStatStatusBar('ArmorLevel', 'shield alternate', 'teal', 100, 0);
+
+        AddStaticStatusBar('HungerLevel', 'utensils', 'yellow', 100, 0);
+        AddStaticStatusBar('ThirstLevel', 'tint', 'blue', 100, 0);
+        AddStaticStatusBar('StressLevel', 'eye', 'red', 100, 0);
+    </script>
+
+    <script type="text/javascript">
+        var game_1_x = 1972.606;
+        var game_1_y = 3817.044;
+        var game_2_x = -1154.11;
+        var game_2_y = -2715.203;
+        var map_1_lat = 72.06379257078102;
+        var map_1_lng = -60.8258056640625;
+        var map_2_lat = 48.41572128171852;
+        var map_2_lng = -72.1417236328125;
+        var EarthRadiusMeters = 6378137.0; // eh?
+
+        //UpdateMiniMap(1500, -1500);
+
+        function UpdateMiniMap(x, y) {
+            var miniMap = document.getElementById('gpsMap');
+
+
+            var gpsPos = convertToMap(x, y);
+            var mPos = convertToGameCoord(gpsPos.lat, gpsPos.lng);
+            var mPos2 = convertToPosition_v2(x, y);
+            var mPos3 = convertToPosition_v2(gpsPos.lng, gpsPos.lat);
+
+            console.log(`lat: ${gpsPos.lat} / lng: ${gpsPos.lng}`);
+
+            console.log(`mPos2.x: ${mPos2.x} / mPos2.y: ${mPos2.y}`);
+
+            console.log(`mPos3.x: ${mPos3.x} / mPos3.y: ${mPos3.y}`);
+
+
+            // top, right, bottom, left
+            miniMap.style.marginTop = `-${mPos3.y}px`;
+            miniMap.style.marginLeft = `-${mPos3.x - 240}px`;
+        }
+
+        function convertToGame(lat, lng) {
+            var rX = game_1_x + (lng - map_1_lng) * (game_1_x - game_2_x) / (map_1_lng - map_2_lng);
+            var rY = game_1_y + (lat - map_1_lat) * (game_1_y - game_2_y) / (map_1_lat - map_2_lat);
+
+            return result = { x: rX, y: rY };
+        }
+
+        function convertToGameCoord(lat, lng) {
+            var rX = game_1_x + (lng - map_1_lng) * (game_1_x - game_2_x) / (map_1_lng - map_2_lng);
+            var rY = game_1_y + (lat - map_1_lat) * (game_1_y - game_2_y) / (map_1_lat - map_2_lat);
+
+            return result = { x: rX, y: rY, z: 0 };
+        }
+
+        function convertToMap(x, y) {
+            var rLng = map_1_lng + (x - game_1_x) * (map_1_lng - map_2_lng) / (game_1_x - game_2_x);
+            var rLat = map_1_lat + (y - game_1_y) * (map_1_lat - map_2_lat) / (game_1_y - game_2_y);
+
+            return result = { lat: rLat, lng: rLng };
+        }
+
+        function convertToPosition_v1(x, y) {
+
+            return result = { x: (x - game_1_x), y: (y - game_1_y) };
+        }
+
+        // https://gtagmodding.com/maps/gta5/
+        // X = Longitude
+        // Y = Latitude
+
+        function convertToPosition_v2(longitude, latitude) {
+            longitude = longitude - map_1_lng;
+            latitude = map_1_lat - latitude;
+
+            var x = (8192 * (longitude / (map_1_lng)));
+            var y = (8192 * (latitude / (map_1_lat)));
+
+            return result = { x: x, y: y };
+        }
+
+        function isNumeric(n) {
+            return !isNaN(parseFloat(n)) && isFinite(n);
+        }
+
+        function stringCoordToFloat(coord) {
+            return result = { x: parseFloat(coord.x), y: parseFloat(coord.y), z: parseFloat(coord.z) };
+        }
+
+        Number.prototype.toRad = function () {
+            return this * (Math.PI / 180);
+        };
+
+        Number.prototype.toDeg = function () {
+            return this * (180 / Math.PI);
+        };
+
+        Number.prototype.toBrng = function () {
+            return (this.toDeg() + 360) % 360;
+        };
+    </script>
+
+    <script type="text/javascript">
+        function showSpeedo() {
+            $('.speedo').show();
+        }
+
+        function hideSpeedo() {
+            $('.speedo').hide();
+        }
+
+        function setSpeedo(kph, rpm, gear) {
+            //// rough guess of gear
+            //var gear = Math.floor(Math.max(0, Math.min(7, kph / 20)));
+
+            var speedEl = document.getElementById('speed');
+            speedEl.textContent = Math.round(kph);
+
+            //var gearEl = document.getElementById('gear');
+            //gearEl.textContent = gear + 1;
+
+            //var base = 90 - 44.6;
+            //var arc = 33.62;
+            //var rpmEl = document.querySelector('.rot');
+            //rpmEl.style.transform = 'rotate(' + (rpm * arc + base) + 'deg)';
+        }
+    </script>
+</body>
+</html>

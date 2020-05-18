@@ -1,0 +1,247 @@
+@font-face {
+    font-family: 'Fugaz One';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Fugaz One'), local('FugazOne-Regular'), url(https://fonts.gstatic.com/s/fugazone/v8/rax_HiWKp9EAITukFsl8Axha.ttf) format('truetype');
+}
+
+.speedo {
+    position: fixed;
+    font-family: "Fugaz One";
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 400;
+    color: white;
+    /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);*/
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    width: 240px;
+    height: 240px;
+    border-radius: 100%;
+    border: 2px solid rgba(255, 255, 255, 0.75);
+    border-bottom-color: transparent;
+    box-sizing: border-box;
+    overflow: hidden;
+    bottom: 15px;
+    right: 15px;
+}
+
+    .speedo::before {
+        position: absolute;
+        content: '';
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: 4px;
+        border-radius: 1000px;
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        border-bottom-color: transparent;
+    }
+
+    .speedo .rot {
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        transition: -webkit-transform 0.1s ease-in-out;
+        transition: transform 0.1s ease-in-out;
+        transition: transform 0.1s ease-in-out, -webkit-transform 0.1s ease-in-out;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 0;
+        height: 0;
+        z-index: 10000;
+    }
+
+    .speedo .indicator {
+        width: 4px;
+        margin-left: -2px;
+        margin-top: -15px;
+        box-shadow: 0 0 2px #73c9f5;
+        height: 30px;
+        border-bottom-left-radius: 100%;
+        border-bottom-right-radius: 100%;
+        background: #43b6f2;
+        z-index: 10000;
+        -webkit-transform: translate(0, 95px);
+        transform: translate(0, 95px);
+    }
+
+    .speedo .lines > span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: 1000;
+        font-size: 0.5em;
+        background: linear-gradient(to left, rgba(255, 255, 255, 0.55) 10%, transparent 30%, transparent 70%, rgba(255, 255, 255, 0.75) 90%);
+        height: 2px;
+        width: 40px;
+        text-align: center;
+    }
+
+        .speedo .lines > span span.text {
+            position: absolute;
+            opacity: 0.9;
+            text-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+        }
+
+        .speedo .lines > span:nth-child(9) {
+            -webkit-transform: translate(-50%, -50%) rotate(224.36deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(224.36deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(9) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(-224.36deg);
+                transform: translate(-50%, -50%) rotate(-224.36deg);
+            }
+
+        .speedo .lines > span:nth-child(8) {
+            -webkit-transform: translate(-50%, -50%) rotate(190.74deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(190.74deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(8) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(-190.74deg);
+                transform: translate(-50%, -50%) rotate(-190.74deg);
+            }
+
+        .speedo .lines > span:nth-child(7) {
+            -webkit-transform: translate(-50%, -50%) rotate(157.12deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(157.12deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(7) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(-157.12deg);
+                transform: translate(-50%, -50%) rotate(-157.12deg);
+            }
+
+        .speedo .lines > span:nth-child(6) {
+            -webkit-transform: translate(-50%, -50%) rotate(123.5deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(123.5deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(6) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(-123.5deg);
+                transform: translate(-50%, -50%) rotate(-123.5deg);
+            }
+
+        .speedo .lines > span:nth-child(5) {
+            -webkit-transform: translate(-50%, -50%) rotate(89.88deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(89.88deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(5) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(-89.88deg);
+                transform: translate(-50%, -50%) rotate(-89.88deg);
+            }
+
+        .speedo .lines > span:nth-child(4) {
+            -webkit-transform: translate(-50%, -50%) rotate(56.26deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(56.26deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(4) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(-56.26deg);
+                transform: translate(-50%, -50%) rotate(-56.26deg);
+            }
+
+        .speedo .lines > span:nth-child(3) {
+            -webkit-transform: translate(-50%, -50%) rotate(22.64deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(22.64deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(3) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(-22.64deg);
+                transform: translate(-50%, -50%) rotate(-22.64deg);
+            }
+
+        .speedo .lines > span:nth-child(2) {
+            -webkit-transform: translate(-50%, -50%) rotate(-10.98deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(-10.98deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(2) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(10.98deg);
+                transform: translate(-50%, -50%) rotate(10.98deg);
+            }
+
+        .speedo .lines > span:nth-child(1) {
+            -webkit-transform: translate(-50%, -50%) rotate(-44.6deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(-44.6deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(1) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(44.6deg);
+                transform: translate(-50%, -50%) rotate(44.6deg);
+            }
+
+        .speedo .lines > span:nth-child(0) {
+            -webkit-transform: translate(-50%, -50%) rotate(-78.22deg) translate(-99px);
+            transform: translate(-50%, -50%) rotate(-78.22deg) translate(-99px);
+        }
+
+            .speedo .lines > span:nth-child(0) span.text {
+                -webkit-transform: translate(-50%, -50%) rotate(78.22deg);
+                transform: translate(-50%, -50%) rotate(78.22deg);
+            }
+
+    .speedo .center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+
+    .speedo .inner {
+        width: 65%;
+        height: 65%;
+        border-radius: 100%;
+        border: 2px solid rgba(255, 255, 255, 0.55);
+        text-align: center;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+    }
+
+        .speedo .inner::before {
+            position: absolute;
+            content: '';
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: -6px;
+            border-radius: 1000px;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            border-bottom-color: transparent;
+        }
+
+        .speedo .inner span sub {
+            font-size: 0.5em;
+            opacity: 0.25;
+            margin-right: -20px;
+        }
+
+        .speedo .inner span.small {
+            font-size: 0.5em;
+            opacity: 0.65;
+        }
+
+        .speedo .inner span.feat {
+            color: #43b6f2;
+        }
+
+    .speedo .bg {
+        width: 180%;
+        margin-left: -40%;
+        height: 211.2px;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        background: rgba(0, 0, 0, 0.25);
+        border-bottom-left-radius: 100%;
+        border-bottom-right-radius: 100%;
+    }

@@ -1,0 +1,173 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
+
+.displayContainer {
+    display: block;
+    height: 50%;
+    width: 100%;
+}
+
+.centerFlex {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.centerContainer {
+    position: absolute;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    padding: 15px;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+#ActionWheel {
+    position: relative;
+    height: 352px;
+    width: 352px;
+    font-size: 13px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+    #ActionWheel, #ActionWheel * {
+        box-sizing: border-box;
+    }
+
+        #ActionWheel .node {
+            position: absolute;
+            -webkit-transform: translateX(-50%) translateY(-50%);
+            transform: translateX(-50%) translateY(-50%);
+            width: 27.5%;
+            height: 27.5%;
+            text-align: center;
+            border-radius: 50%;
+            background-color: #333;
+            box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
+            transition: box-shadow 0.25s;
+            overflow: hidden;
+        }
+
+            #ActionWheel .node span {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                -webkit-transform: translateX(-50%) translateY(-50%);
+                transform: translateX(-50%) translateY(-50%);
+                display: inline-block;
+                width: 100%;
+                padding: 8px;
+                color: #eee;
+                transition: color 0.25s;
+            }
+
+                #ActionWheel .node span b {
+                    font-size: 16px;
+                }
+
+        #ActionWheel .node--current {
+            top: 50%;
+            left: 50%;
+            width: 36.6666666667%;
+            height: 36.6666666667%;
+            text-transform: uppercase;
+            background: #333;
+        }
+
+            #ActionWheel .node--current span {
+                font-size: 15px;
+                color: #eee;
+            }
+
+                #ActionWheel .node--current span b {
+                    font-size: 18px;
+                    color: #aaa;
+                }
+
+        #ActionWheel .node--child:hover {
+            box-shadow: 0 3px 12px rgba(0, 0, 0, 0.23), 0 3px 12px rgba(0, 0, 0, 0.16);
+            cursor: pointer;
+        }
+
+        #ActionWheel .node-bar {
+            position: absolute;
+            top: 50%;
+            left: calc(50% - 4px);
+            display: block;
+            width: 8px;
+            height: 150px;
+            background-color: transparent;
+            -webkit-transform-origin: 50% 0;
+            transform-origin: 50% 0;
+        }
+
+        #ActionWheel .node--parent {
+            width: 18.3333333333%;
+            height: 18.3333333333%;
+            background: #fff;
+            left: 50%;
+            bottom: 0;
+            -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+        }
+
+            #ActionWheel .node--parent span {
+                color: #aaa;
+                text-transform: uppercase;
+            }
+
+            #ActionWheel .node--parent:hover {
+                box-shadow: 0 3px 12px rgba(0, 0, 0, 0.23), 0 3px 12px rgba(0, 0, 0, 0.16);
+                cursor: pointer;
+            }
+
+                #ActionWheel .node--parent:hover span {
+                    color: #888;
+                }
+
+            #ActionWheel .node--parent .node-bar {
+                -webkit-transform: rotate(-90deg);
+                transform: rotate(-90deg);
+            }
+
+        #ActionWheel .node--0 {
+            background-color: #4CAF50;
+        }
+
+        #ActionWheel .node--1 {
+            background-color: #303F9F;
+        }
+
+        #ActionWheel .node--2 {
+            background-color: #607D8B;
+        }
+
+        #ActionWheel .node--3 {
+            background-color: #E91E63;
+        }
+
+        #ActionWheel .node--4 {
+            background-color: #448AFF;
+        }
+
+        #ActionWheel .node--5 {
+            background-color: #5D4037;
+        }
+
+        #ActionWheel .node--6 {
+            background-color: #FF5722;
+        }
+
+        #ActionWheel .node--7 {
+            background-color: #9C27B0;
+        }
+
+#ActionWheel {
+    margin: 3em auto;
+}
+
+html,
+body {
+    min-height: 100%;
+}

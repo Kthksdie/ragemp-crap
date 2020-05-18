@@ -1,0 +1,178 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+
+    <script src="../content/semantic.min.js"></script>
+    <link href="../content/semantic.min.css" rel="stylesheet" type="text/css">
+    <link href="../content/global.css" rel="stylesheet" type="text/css">
+
+    <link href="content/ui.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="ui dimmer">
+        <div class="ui text loader">Loading</div>
+    </div>
+    <div id="dealerContainer" class="ui center aligned grid" style="padding-top: 120px; margin-left: 120px; margin-right: 120px;">
+        <div class="row">
+            <div class="six wide column">
+                <div class="ui inverted center aligned segment" id="inv1">
+                    <h1>Dealer</h1>
+                    <div class="ui button" onclick="dealer_ShuffleDeck(); return false;">
+                        Shuffle
+                    </div>
+                    <div class="ui button" onclick="dealer_DrawCards(); return false;">
+                        Draw
+                    </div>
+                    <div class="ui button" onclick="dealer_NewDeck(); return false;">
+                        New Deck
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="six wide column">
+                <div class="ui inverted segment stackable cards" id="inv1">
+                    <h1>Cards</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="twelve wide column">
+                <div class="ui inverted segment">
+                    <div id="cardContainer" class="ui images">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+
+    </div>
+
+    <div id="invisible" style="display:none"></div>
+
+    <script type="text/javascript">
+        var deckId = '';
+
+        $(document).ready(function () {
+            dealer_NewDeck();
+        });
+
+        function dealer_NewDeck() {
+            var cardContainer = $('#cardContainer');
+            cardContainer.empty();
+
+            var deckQueryUrl = 'https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1';
+
+            $.getJSON(deckQueryUrl, function (data, status) {
+                if (status === 'success') {
+                    //Do stuff with the JSON data
+                    deckId = data.deck_id;
+
+                    console.log(JSON.stringify(data, null, 2));
+                }
+                else {
+                    console.log('deckQueryUrl: ' + status);
+                }
+            });
+        }
+
+        function dealer_ShuffleDeck() {
+            if (!deckId.length) {
+                console.log('Deck required');
+                return;
+            }
+
+            // The count variable defines how many cards to draw from the deck.
+            var deckQueryUrl = 'https://deckofcardsapi.com/api/deck/' + deckId + '/shuffle/';
+
+            $.getJSON(deckQueryUrl, function (data, status) {
+                if (status === 'success') {
+                    //Do stuff with the JSON data
+                    console.log(JSON.stringify(data, null, 2));
+                }
+                else {
+                    console.log('deckQueryUrl: ' + status);
+                }
+            });
+
+            //{
+            //    "success": true,
+            //    "deck_id": "3p40paa87x90",
+            //    "shuffled": true,
+            //    "remaining": 52
+            //}
+        }
+
+        function dealer_DrawCards() {
+            if (!deckId.length) {
+                console.log('Deck required');
+                return;
+            }
+
+            // The count variable defines how many cards to draw from the deck.
+            var deckQueryUrl = 'https://deckofcardsapi.com/api/deck/' + deckId + '/draw/?count=2';
+
+            $.getJSON(deckQueryUrl, function (data, status) {
+                if (status === 'success') {
+                    //Do stuff with the JSON data
+                    console.log(JSON.stringify(data, null, 2));
+
+                    for (var i = 0; i < data.cards.length; i++) {
+                        var card = data.cards[i];
+                        addCard(card);
+                    }
+                }
+                else {
+                    console.log('deckQueryUrl: ' + status);
+                }
+            });
+
+            //{
+            //  "deck_id": "aguouso9inea",
+            //  "success": true,
+            //  "cards": [
+            //      {
+            //          "suit": "SPADES",
+            //          "code": "4S",
+            //          "value": "4",
+            //          "images": {
+            //              "png": "https://deckofcardsapi.com/static/img/4S.png",
+            //              "svg": "https://deckofcardsapi.com/static/img/4S.svg"
+            //          },
+            //          "image": "https://deckofcardsapi.com/static/img/4S.png"
+            //      },
+            //      {
+            //          "suit": "SPADES",
+            //          "code": "9S",
+            //          "value": "9",
+            //          "images": {
+            //              "png": "https://deckofcardsapi.com/static/img/9S.png",
+            //              "svg": "https://deckofcardsapi.com/static/img/9S.svg"
+            //          },
+            //      "image": "https://deckofcardsapi.com/static/img/9S.png"
+            //      }
+            //  ],
+            //  "remaining": 50
+            //}
+        }
+
+        function addCard(data) {
+            //<img class="ui image" src="/images/wireframe/image.png">
+            var image = $('<img class="ui centered image" src="' + data.image + '" />');
+
+            var cardContainer = $('#cardContainer');
+            cardContainer.append(image);
+        }
+
+    </script>
+</body>
+</html>
