@@ -1,0 +1,90 @@
+
+
+
+
+/* Makes it non-interactive? */
+* {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.gpsContainer {
+    position: fixed;
+    width: 240px;
+    height: 240px;
+    bottom: 15px;
+    left: 15px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+    .gpsContainer img {
+        border-radius: 50%;
+    }
+
+#gpsMap {
+    margin-top: -1806px; /* x */
+    margin-left: -1775px; /* y -width */
+}
+
+/* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
+
+#vehBars span {
+    font-family: 'Montserrat', sans-serif;
+    /*font-family: 'Ubuntu', sans-serif;*/
+}
+
+html, body {
+    /*height: 100vh;*/
+}
+
+.ui.segment {
+    opacity: 0.7;
+}
+
+.ui.progress:first-child {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+.ui.progress {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.ui.progress:last-child {
+    margin-bottom: 0em;
+}
+
+.ui.grid .row:first-child {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.ui.grid .row {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.ui.grid .row:last-child {
+    padding-bottom: 0.5em;
+}
+
+.ui.progress .bar i {
+    vertical-align: middle;
+    margin-top: 0.35em;
+    margin-left: 0.35em;
+}
+
+.ui.progress .bar {
+    min-width: 0 !important;
+}
+
+.ui.active.progress .bar {
+    min-width: 0 !important;
+}

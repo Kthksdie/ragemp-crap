@@ -1,0 +1,27 @@
+
+
+
+
+/** {
+    font-family: 'Pricedown W01 Black'
+}*/
+
+/*@font-face {
+    font-family: 'Pricedown W01 Black';
+    src: url('fonts/pricedown bl.ttf') format('truetype');
+}*/
+
+* {
+    /*-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;*/
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: unset !important;
+    background-color: transparent !important;
+}

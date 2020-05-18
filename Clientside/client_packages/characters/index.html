@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="../content/semantic.min.js"></script>
+    <link href="../content/semantic.min.css" rel="stylesheet" type="text/css">
+    <link href="../content/global.css" rel="stylesheet" type="text/css">
+
+    <script src="../content/components/calendar.min.js"></script>
+    <link href="../content/components/calendar.min.css" rel="stylesheet">
+
+    <link href="content/ui.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="ui dimmer">
+        <div class="ui text loader">Loading</div>
+    </div>
+    <div class="ui middle aligned center aligned grid loading" style="padding-top: 120px; width: 50%; margin-left: auto; margin-right: auto;">
+        <div class="row">
+            <div class="column">
+                <div id="showCreatorBtn" class="ui blue button" onclick="showCreator(); return false;">New</div>
+                <div id="hideCreatorBtn" class="ui grey button" onclick="hideCreator(); return false;" style="display: none;">Back</div>
+            </div>
+        </div>
+        <div class="row">
+            <div id="charactersContainer" class="ui cards">
+
+            </div>
+        </div>
+        <div id="characterCreator" class="row" style="display: none;">
+            <div class="column" style="max-width: 480px;">
+                <form id="createForm" class="ui large form">
+                    <div class="ui segment">
+                        <div class="field">
+                            <div class="ui input">
+                                <input type="text" name="firstName" placeholder="First">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <div class="ui input">
+                                <input type="text" name="middleName" placeholder="Middle">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <div class="ui input">
+                                <input type="text" name="lastName" placeholder="Last">
+                            </div>
+                        </div>
+
+                        <div class="field">
+                            <div class="ui calendar" id="dateOfBirth">
+                                <div class="ui input left icon">
+                                    <i class="calendar icon"></i>
+                                    <input type="text" name="dateOfBirth" placeholder="Date of Birth">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="field">
+                            <label>Bio:</label>
+                            <textarea name="bio" placeholder="Doesn't have to be detailed. Short and simple is OK."></textarea>
+                        </div>
+
+                        <div class="field">
+                            <div class="ui blue button" onclick="createCharacter(); return false;">Create</div>
+                        </div>
+                    </div>
+
+                    <div class="ui error message"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div id="invisible" style="display:none"></div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('body').dimmer('show');
+
+            $('#dateOfBirth').calendar({
+                type: 'date',
+                monthFirst: false,
+                formatter: {
+                    date: function (date, settings) {
+                        if (!date) return '';
+                        var day = date.getDate();
+                        var month = date.getMonth() + 1;
+                        var year = date.getFullYear();
+                        return day + '/' + month + '/' + year;
+                    }
+                }
+            });
+
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+            //addCharacterPicker('12345678', 'User, Test 1', '23', '$1000.00', '$100.00');
+        });
+
+        var charactersContainer = $('#charactersContainer');
+        var characterCreator = $('#characterCreator');
+
+        var createForm = $('#createForm');
+
+        var showCreatorBtn = $('#showCreatorBtn');
+        var hideCreatorBtn = $('#hideCreatorBtn');
+
+        function showCreator() {
+            charactersContainer.hide();
+            showCreatorBtn.hide();
+
+            characterCreator.show();
+            hideCreatorBtn.show();
+        }
+
+        function hideCreator() {
+            characterCreator.hide();
+            hideCreatorBtn.hide();
+
+            charactersContainer.show();
+            showCreatorBtn.show();
+        }
+
+        function setCharacters(characters) {
+            var charactersArray = JSON.parse(characters);
+
+            for (var i = 0; i < charactersArray.length; i++) {
+                var character = charactersArray[i];
+                addCharacterPicker(character.id, character.fullName, character.age, character.bank, character.cash)
+            }
+
+            $('body').dimmer('hide');
+        }
+
+        function addCharacterPicker(id, fullName, age, bank, cash) {
+            var card = $('<div class="ui card">');
+            var cardContent = $('<div class="left aligned content">');
+
+            var contentHeader = $('<div class="header">');
+            contentHeader.text(fullName);
+
+            cardContent.append(contentHeader);
+
+            var contentDescription = $('<div class="description">');
+            contentDescription.append(`<p>Age: ${age}</p>`);
+            contentDescription.append(`<p>Bank: ${bank}</p>`);
+            contentDescription.append(`<p>Cash: ${cash}</p>`);
+
+            cardContent.append(contentDescription);
+
+            var cardExtraContent = $('<div class="extra content">').append($('<div class="ui buttons">'));
+
+            var selectButton = $('<div class="ui black button">');
+            selectButton.text('Select');
+            selectButton.click(function () {
+                mp.trigger('ExecuteRemoteEvent', 'RequestCharacter', id);
+            });
+
+            cardExtraContent.append(selectButton);
+
+            var deleteButton = $('<div class="ui right floated grey button">');
+            deleteButton.text('Delete');
+            deleteButton.click(function () {
+                mp.trigger('ExecuteRemoteEvent', 'DeleteCharacter', id);
+            });
+
+            cardExtraContent.append(deleteButton);
+
+            card.append(cardContent);
+            card.append(cardExtraContent);
+
+            charactersContainer.append(card);
+        }
+
+        function createCharacter() {
+            var firstName = createForm.form('get value', 'firstName');
+            var middleName = createForm.form('get value', 'middleName');
+            var lastName = createForm.form('get value', 'lastName');
+            var bio = createForm.form('get value', 'bio');
+            var dateOfBirth = createForm.form('get value', 'dateOfBirth');
+
+            mp.trigger('ExecuteRemoteEvent', 'CreateCharacter', firstName, middleName, lastName, bio, dateOfBirth);
+        }
+
+        function createError(message) {
+            $('#createForm').form('add errors', [message]);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,132 @@
+
+
+
+
+.phone, .button {
+    border: 2px solid #ccc;
+}
+
+.phone {
+    background-color: white;
+    border-radius: 25px;
+    height: 640px;
+    margin: 0 auto;
+    position: relative;
+    width: 320px;
+    z-index: 9999999999999;
+    position: absolute;
+    top: 50%;
+    right: 50px;
+}
+
+.phone__top-buttons__power {
+    background-color: white;
+    height: 0.5%;
+    position: absolute;
+    right: 14.5%;
+    top: -1.25%;
+    width: 14.5%;
+}
+
+.phone__left-buttons {
+    height: 490px;
+    left: -1.5%;
+    margin-top: 20%;
+    position: absolute;
+    top: 0;
+    width: 1.5%;
+}
+
+    .phone__left-buttons > div {
+        background-color: white;
+    }
+
+.phone__left-buttons__top {
+    height: 6%;
+    margin-bottom: 500%;
+}
+
+.phone__left-buttons__middle {
+    height: 4%;
+    margin-bottom: 400%;
+}
+
+.phone__left-buttons__bottom {
+    height: 4%;
+    margin-bottom: 400%;
+}
+
+.phone__top-face {
+    height: 10%;
+    position: relative;
+}
+
+.phone__top-face__earpiece {
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    height: 7%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 28%;
+}
+
+.phone__screen {
+    background-color: #b3b3b3;
+    height: 80%;
+    overflow: hidden;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 94%;
+    background-size: 100%;
+}
+
+    .phone__screen .carousel-inner {
+        height: 100%;
+    }
+
+.phone__bottom-face {
+    bottom: 0;
+    height: 10%;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.phone__bottom-face__circlet {
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    height: 60%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 12.5%;
+}
+
+.topBar {
+    color: white;
+    background-color: black;
+    height: 35px !important;
+    padding-top: 5px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    font-size: 0.7em;
+}
+
+.appContainer {
+    color: white;
+    font-size: 0.7em;
+    margin-top: 25px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
