@@ -1,0 +1,9875 @@
+[
+  {
+    "Index": 0,
+    "Title": "Manly handshake (female - female)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1801,
+      1803
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 1,
+    "Title": "Manly handshake (female - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1822,
+      30710
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 2,
+    "Title": "Manly handshake (male - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      30719,
+      30720
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 3,
+    "Title": "Bro hug (female - female)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      30697,
+      30698
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 4,
+    "Title": "Bro hug (female - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1812,
+      1814
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 5,
+    "Title": "Bro hug (male - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      30712,
+      30713
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 6,
+    "Title": "Cowering (female - female)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1793,
+      30700
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 7,
+    "Title": "Cowering (female - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1815,
+      30705
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 8,
+    "Title": "Cowering (male - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1833,
+      30715
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 9,
+    "Title": "Backslap (female - female)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1790,
+      30696
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 10,
+    "Title": "Backslap (female - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1810,
+      30704
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 11,
+    "Title": "Backslap (male - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1829,
+      30711
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 12,
+    "Title": "Fistbump (female - female)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      30701,
+      30702
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 13,
+    "Title": "Fistbump (female - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      30706,
+      30707
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 14,
+    "Title": "Fistbump (male - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      30716,
+      30717
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 15,
+    "Title": "High five (female - female)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1798,
+      30703
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 16,
+    "Title": "High five (female - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      30708,
+      30709
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 17,
+    "Title": "High five (male - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1839,
+      30718
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 18,
+    "Title": "Sarcastic (female - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1825,
+      1827
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 19,
+    "Title": "Sarcastic (female - female)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1805,
+      1807
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 20,
+    "Title": "Sarcastic (male - male)",
+    "Category": "Celebration",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1843,
+      1845
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 21,
+    "Title": "Cougar takedown back",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      3812,
+      3820
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 22,
+    "Title": "Cougar takedown front",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      3814,
+      3821
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 23,
+    "Title": "Retriever takedown back",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      43873,
+      43872
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 24,
+    "Title": "Retriever takedown front",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      4426,
+      43875
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 25,
+    "Title": "Motorcycle knockout passenger (Franklin)",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5191,
+      5192
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 26,
+    "Title": "Vehicle knockout passenger (Franklin)",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5188,
+      5189
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 27,
+    "Title": "Hatchet takedown front",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5792,
+      5795
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 28,
+    "Title": "Hatchet takedown rear #1",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5793,
+      5796
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 29,
+    "Title": "Hatchet takedown rear #2",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5794,
+      5797
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 30,
+    "Title": "Knife takedown failed rear",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5823,
+      5859
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 31,
+    "Title": "Knife takedown failed front",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5824,
+      5860
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 32,
+    "Title": "Knife takedown front",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5825,
+      5836
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 33,
+    "Title": "Knife takedown front",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5826,
+      5837
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 34,
+    "Title": "Knife stealth takedown",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5827,
+      5838
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 35,
+    "Title": "Melee failed takedown front",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6057,
+      6068
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 36,
+    "Title": "Melee failed takedown rear",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6058,
+      6069
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 37,
+    "Title": "Melee stealth kill unarmed",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6059,
+      6070
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 38,
+    "Title": "Melee takedown front elbow",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6060,
+      6071
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 39,
+    "Title": "Melee takedown front uppercut",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6061,
+      6072
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 40,
+    "Title": "Melee takedown rear lefthook",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6062,
+      6073
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 41,
+    "Title": "stealth_kill_unarmed_a",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6116,
+      6130
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 42,
+    "Title": "stealth_kill_unarmed_hook_r 2833",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6117,
+      6131
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 43,
+    "Title": "stealth_kill_unarmed_non_lethal_a 3466",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6118,
+      6132
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 44,
+    "Title": "stealth_kill_unarmed_non_lethal_b 2533",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6170,
+      6176
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 45,
+    "Title": "takedown_front_backslap 2333",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6119,
+      6133
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 46,
+    "Title": "takedown_front_cross_r 2066",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6120,
+      6134
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 47,
+    "Title": "takedown_front_elbow 3233",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6121,
+      6135
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 48,
+    "Title": "takedown_front_headbutt 2266",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6122,
+      6136
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 49,
+    "Title": "takedown_front_low_punch 3066",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6123,
+      6137
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 50,
+    "Title": "takedown_front_slap 2399",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6124,
+      6138
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 51,
+    "Title": "takedown_front_uppercut 2533",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6125,
+      6139
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 52,
+    "Title": "takedown_rear_lefthook 2266",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6126,
+      6140
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 53,
+    "Title": "psycho_front_takedown 4333",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6143,
+      67770
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 54,
+    "Title": "psycho_front_takedown_b 4000",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6144,
+      67771
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 55,
+    "Title": "psycho_front_takedown_c",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6113,
+      67772
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 56,
+    "Title": "psycho_rear_takedown 3366",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6145,
+      6147
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 57,
+    "Title": "psycho_rear_takedown_b 3500",
+    "Category": "Melee",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6146,
+      6148
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 58,
+    "Title": "Darts intro #1",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": 0.5,
+    "ActorAnims": [
+      6306,
+      6308
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 59,
+    "Title": "Darts intro #2",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": 0.5,
+    "ActorAnims": [
+      6315,
+      6317
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 60,
+    "Title": "Darts winner #1",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      6323,
+      6324
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 61,
+    "Title": "Darts winner #2",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      6326,
+      6327
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 62,
+    "Title": "Darts winner #3",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      6329,
+      6330
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 63,
+    "Title": "Drinking with barman #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6331,
+      6334
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 64,
+    "Title": "Drinking with barman #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6332,
+      6335
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 65,
+    "Title": "Drinking with barman #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6333,
+      6336
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 66,
+    "Title": "Sex low vehicle",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6767,
+      6766
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 67,
+    "Title": "Pimp demands money",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6864,
+      6863
+    ],
+    "ObjectAnims": [
+      6862
+    ],
+    "Objects": [
+      "prop_cash_pile_02"
+    ]
+  },
+  {
+    "Index": 68,
+    "Title": "Prostitutes argue",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6865,
+      6866
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 69,
+    "Title": "Drinking at strip club #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 1.0,
+    "ActorAnims": [
+      6940,
+      6937
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 70,
+    "Title": "Drinking at strip club #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 1.0,
+    "ActorAnims": [
+      6955,
+      6952
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 71,
+    "Title": "Drinking at strip club #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 1.0,
+    "ActorAnims": [
+      6964,
+      6961
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 72,
+    "Title": "Drinking at strip club #4",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 1.0,
+    "ActorAnims": [
+      6974,
+      6971
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 73,
+    "Title": "Argueing (Jimmy and Simeon) #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7703,
+      7704
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 74,
+    "Title": "Argueing (Jimmy and Simeon) #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7705,
+      7706
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 75,
+    "Title": "Franklin and Lamar walk to car",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7726,
+      7727
+    ],
+    "ObjectAnims": [
+      7724,
+      7725
+    ],
+    "Objects": [
+      "ninef2",
+      "rapidgt2"
+    ]
+  },
+  {
+    "Index": 76,
+    "Title": "Gamer with controller and headset",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      7785
+    ],
+    "ObjectAnims": [
+      7786,
+      7787
+    ],
+    "Objects": [
+      "prop_controller_01",
+      "prop_headset_01"
+    ]
+  },
+  {
+    "Index": 77,
+    "Title": "Enter door",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      12066
+    ],
+    "ObjectAnims": [
+      12069
+    ],
+    "Objects": [
+      "v_ilev_fa_frontdoor"
+    ]
+  },
+  {
+    "Index": 78,
+    "Title": "Lapdance exit (exit, touching)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7020,
+      7018
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 79,
+    "Title": "Lapdance exit (exit, dismiss)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7016,
+      7015
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 80,
+    "Title": "Lapdance (start dancing)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7001,
+      6999
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 81,
+    "Title": "Lapdance sit-down (sit down pt1)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7006,
+      7004
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 82,
+    "Title": "Lapdance sit-down (sit down pt2)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7025,
+      7023
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 83,
+    "Title": "Lapdance (dance1)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7029,
+      7027
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 84,
+    "Title": "Lapdance (touch, dance2)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7033,
+      7031
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 85,
+    "Title": "Lapdance (touch, dance3)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7038,
+      7036
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 86,
+    "Title": "Lapdance (no touch, dance2)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7034,
+      7031
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 87,
+    "Title": "Lapdance (no touch, dance3)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7039,
+      7036
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 88,
+    "Title": "Lapdance (idle)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7042,
+      7044
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 89,
+    "Title": "Lapdance 2g sit-down (pt1)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7057,
+      7058,
+      7060
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 90,
+    "Title": "Lapdance 2g sit-down (pt2)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7084,
+      7085,
+      7087
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 91,
+    "Title": "Lapdance 2g (exit, dismiss)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7070,
+      7071,
+      7073
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 92,
+    "Title": "Lapdance 2g (touch, dance1)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7091,
+      7092,
+      7094
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 93,
+    "Title": "Lapdance 2g (touch, dance2)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7097,
+      7098,
+      7100
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 94,
+    "Title": "Lapdance 2g (touch, dance3)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      7103,
+      7104,
+      7106
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 95,
+    "Title": "Remove parachute #1 (male)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13664
+    ],
+    "ObjectAnims": [
+      22477
+    ],
+    "Objects": [
+      "hei_p_parachute_s_female"
+    ]
+  },
+  {
+    "Index": 96,
+    "Title": "Remove parachute #2 (male)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      25112
+    ],
+    "ObjectAnims": [
+      1739
+    ],
+    "Objects": [
+      "hei_p_parachute_s_female"
+    ]
+  },
+  {
+    "Index": 97,
+    "Title": "Remove parachute #3 (male)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      25111
+    ],
+    "ObjectAnims": [
+      1740
+    ],
+    "Objects": [
+      "hei_p_parachute_s_female"
+    ]
+  },
+  {
+    "Index": 98,
+    "Title": "Remove parachute #4 (female)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      1731
+    ],
+    "ObjectAnims": [
+      1733
+    ],
+    "Objects": [
+      "hei_p_parachute_s_female"
+    ]
+  },
+  {
+    "Index": 99,
+    "Title": "Remove parachute #5 (female)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22479
+    ],
+    "ObjectAnims": [
+      1734
+    ],
+    "Objects": [
+      "hei_p_parachute_s_female"
+    ]
+  },
+  {
+    "Index": 100,
+    "Title": "Remove parachute #6 (female)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22478
+    ],
+    "ObjectAnims": [
+      1736
+    ],
+    "Objects": [
+      "hei_p_parachute_s_female"
+    ]
+  },
+  {
+    "Index": 101,
+    "Title": "Lapdance (Wade)",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      7161,
+      7160,
+      7159
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 102,
+    "Title": "Thrown out",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      7158,
+      7155,
+      7156
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 103,
+    "Title": "Sign in",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.58,
+    "ActorAnims": [
+      7620,
+      7621
+    ],
+    "ObjectAnims": [
+      7619
+    ],
+    "Objects": [
+      "p_amb_clipboard_01"
+    ]
+  },
+  {
+    "Index": 104,
+    "Title": "Dodge car (crowd 1)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7707,
+      7708,
+      7709,
+      7710
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 105,
+    "Title": "Dodge car (crowd 2)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7711,
+      7712,
+      7713,
+      7714
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 106,
+    "Title": "Dodge car (crowd 3)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7715,
+      7716,
+      7717,
+      7718
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 107,
+    "Title": "Dodge car (push)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7719,
+      7720
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 108,
+    "Title": "Gun to driver head (intro)",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7794,
+      7795
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 109,
+    "Title": "Gun to driver head (loop)",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      7801,
+      7802
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 110,
+    "Title": "Tennis coach (practice swing)",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      7806,
+      7810
+    ],
+    "ObjectAnims": [
+      7807,
+      7808,
+      7809
+    ],
+    "Objects": [
+      "prop_tennis_rack_01",
+      "prop_tennis_rack_01b",
+      "p_tennis_bag_01_s"
+    ]
+  },
+  {
+    "Index": 111,
+    "Title": "Close vault door",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      7930
+    ],
+    "ObjectAnims": [
+      7931
+    ],
+    "Objects": [
+      "p_fin_vaultdoor_s"
+    ]
+  },
+  {
+    "Index": 112,
+    "Title": "Take crate from van",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      7937
+    ],
+    "ObjectAnims": [
+      7939
+    ],
+    "Objects": [
+      "prop_ld_gold_chest"
+    ]
+  },
+  {
+    "Index": 113,
+    "Title": "Exit car with rifles",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -1.1,
+    "ActorAnims": [
+      7995,
+      7996
+    ],
+    "ObjectAnims": [
+      7994
+    ],
+    "Objects": [
+      "dubsta"
+    ]
+  },
+  {
+    "Index": 114,
+    "Title": "Gathered around laptop",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      8013,
+      8014,
+      8017
+    ],
+    "ObjectAnims": [
+      8015,
+      8016
+    ],
+    "Objects": [
+      "p_laptop_02_s",
+      "p_laptop_02_s"
+    ]
+  },
+  {
+    "Index": 115,
+    "Title": "Get in passenger seat",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      8040,
+      8043
+    ],
+    "ObjectAnims": [
+      8042
+    ],
+    "Objects": [
+      "asea"
+    ]
+  },
+  {
+    "Index": 116,
+    "Title": "Pull lever",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8068
+    ],
+    "ObjectAnims": [
+      8069
+    ],
+    "Objects": [
+      "p_rail_controller_s"
+    ]
+  },
+  {
+    "Index": 117,
+    "Title": "Chad Hug #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8105,
+      8106
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 118,
+    "Title": "Chad Hug #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8101,
+      8102
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 119,
+    "Title": "Chad Hug #3",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8103,
+      8104
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 120,
+    "Title": "Hang and throw over ledge",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -8.3,
+    "ActorAnims": [
+      8127,
+      8128
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 121,
+    "Title": "Blowjob, kneeling",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      8132,
+      8130
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 122,
+    "Title": "Sex, standing",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8134,
+      8133
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 123,
+    "Title": "Throw grenade launcher",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8238,
+      8237
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 124,
+    "Title": "Drunken fist fight",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8253,
+      8258
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 125,
+    "Title": "Car flips",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8424,
+      8427
+    ],
+    "ObjectAnims": [
+      8426
+    ],
+    "Objects": [
+      "dubsta"
+    ]
+  },
+  {
+    "Index": 126,
+    "Title": "Hold dog by collar",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.1,
+    "ActorAnims": [
+      8434,
+      8435
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 127,
+    "Title": "Let go of dog collar",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.1,
+    "ActorAnims": [
+      8433,
+      8432
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 128,
+    "Title": "Yacht fight 1 (1/3)",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -3.0,
+    "ActorAnims": [
+      8533,
+      8534
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 129,
+    "Title": "Yacht fight 1 (2/3)",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -3.0,
+    "ActorAnims": [
+      8535,
+      8536
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 130,
+    "Title": "Yacht fight 1 (3/3)",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -3.0,
+    "ActorAnims": [
+      8537,
+      8538
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 131,
+    "Title": "Yacht fight 2 (1/3)",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -2.5,
+    "ActorAnims": [
+      8541,
+      8542
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 132,
+    "Title": "Yacht fight 2 (2/3)",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -2.5,
+    "ActorAnims": [
+      8544,
+      8545
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 133,
+    "Title": "Yacht fight 2 (3/3 failure)",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -2.5,
+    "ActorAnims": [
+      8539,
+      8540
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 134,
+    "Title": "Yacht fight 2 (3/3 success)",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -2.5,
+    "ActorAnims": [
+      8547,
+      8548
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 135,
+    "Title": "Pull over ledge",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": -2.6,
+    "ActorAnims": [
+      8572,
+      8573
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 136,
+    "Title": "Seated, touching hands",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8609,
+      8611
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 137,
+    "Title": "Open door #3 (double doors)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8618
+    ],
+    "ObjectAnims": [
+      8617,
+      8616
+    ],
+    "Objects": [
+      "v_ilev_mm_doorm_r",
+      "v_ilev_mm_doorm_l"
+    ]
+  },
+  {
+    "Index": 138,
+    "Title": "Jimmy drugs michael #1",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.3,
+    "ActorAnims": [
+      8653,
+      8651
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 139,
+    "Title": "Jimmy drugs michael #2",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.3,
+    "ActorAnims": [
+      8735,
+      8734
+    ],
+    "ObjectAnims": [
+      8733
+    ],
+    "Objects": [
+      "tailgater"
+    ]
+  },
+  {
+    "Index": 140,
+    "Title": "Ear piercing base",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8748,
+      8746
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 141,
+    "Title": "Ear piercing #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8741,
+      8740
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 142,
+    "Title": "Ear piercing #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8744,
+      8743
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 143,
+    "Title": "Ear piercing #3",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      8751,
+      8750
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 144,
+    "Title": "Enter car panicked",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      8817
+    ],
+    "ObjectAnims": [
+      8816
+    ],
+    "Objects": [
+      "asea"
+    ]
+  },
+  {
+    "Index": 145,
+    "Title": "Interrogate",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      8921,
+      8923
+    ],
+    "ObjectAnims": [
+      8920
+    ],
+    "Objects": [
+      "v_corp_offchair"
+    ]
+  },
+  {
+    "Index": 146,
+    "Title": "Group talking",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9086,
+      9087,
+      9088
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 147,
+    "Title": "Torture, stab in chest",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9174,
+      9177
+    ],
+    "ObjectAnims": [
+      9171
+    ],
+    "Objects": [
+      "prop_torture_ch_01"
+    ]
+  },
+  {
+    "Index": 148,
+    "Title": "Torture, tooth pull (intro)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9198,
+      9201
+    ],
+    "ObjectAnims": [
+      9200
+    ],
+    "Objects": [
+      "prop_pliers_01"
+    ]
+  },
+  {
+    "Index": 149,
+    "Title": "Torture, tooth pull (idle)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9190,
+      9193
+    ],
+    "ObjectAnims": [
+      9192
+    ],
+    "Objects": [
+      "prop_pliers_01"
+    ]
+  },
+  {
+    "Index": 150,
+    "Title": "Torture, tooth pull (loop)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9206,
+      9209
+    ],
+    "ObjectAnims": [
+      9208
+    ],
+    "Objects": [
+      "prop_pliers_01"
+    ]
+  },
+  {
+    "Index": 151,
+    "Title": "Torture, tooth pull (exit)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9226,
+      9229
+    ],
+    "ObjectAnims": [
+      9228
+    ],
+    "Objects": [
+      "prop_pliers_01"
+    ]
+  },
+  {
+    "Index": 152,
+    "Title": "Torture, waterboard (intro)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9269,
+      9272
+    ],
+    "ObjectAnims": [
+      9265,
+      9268,
+      9271
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "w_am_jerrycan",
+      "p_loose_rag_01_s"
+    ]
+  },
+  {
+    "Index": 153,
+    "Title": "Torture, waterboard (kick)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9279,
+      9283
+    ],
+    "ObjectAnims": [
+      9275,
+      9278,
+      9282
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "w_am_jerrycan",
+      "p_loose_rag_01_s"
+    ]
+  },
+  {
+    "Index": 154,
+    "Title": "Torture, waterboard (loop)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9298,
+      9301
+    ],
+    "ObjectAnims": [
+      9294,
+      9297,
+      9300
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "w_am_jerrycan",
+      "prop_face_rag_01"
+    ]
+  },
+  {
+    "Index": 155,
+    "Title": "Torture, waterboard (outro)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      9313,
+      9317
+    ],
+    "ObjectAnims": [
+      9306,
+      9312,
+      9315
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "w_am_jerrycan",
+      "prop_face_rag_01"
+    ]
+  },
+  {
+    "Index": 156,
+    "Title": "Rollercoaster enter",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      2415,
+      2416
+    ],
+    "ObjectAnims": [
+      2417
+    ],
+    "Objects": [
+      "prop_roller_car_01"
+    ]
+  },
+  {
+    "Index": 157,
+    "Title": "Rollercoaster exit",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      2418,
+      2419
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 158,
+    "Title": "Rollercoaster hands-up start",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      2420,
+      2421
+    ],
+    "ObjectAnims": [
+      2422
+    ],
+    "Objects": [
+      "prop_roller_car_01"
+    ]
+  },
+  {
+    "Index": 159,
+    "Title": "Rollercoaster hands-up idle",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      2426,
+      30746
+    ],
+    "ObjectAnims": [
+      2427
+    ],
+    "Objects": [
+      "prop_roller_car_01"
+    ]
+  },
+  {
+    "Index": 160,
+    "Title": "Rollercoaster hands-up end",
+    "Category": "Sports",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      2423,
+      2424
+    ],
+    "ObjectAnims": [
+      2425
+    ],
+    "Objects": [
+      "prop_roller_car_01"
+    ]
+  },
+  {
+    "Index": 161,
+    "Title": "Drink beer at safehouse #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2446
+    ],
+    "ObjectAnims": [
+      2447,
+      2448
+    ],
+    "Objects": [
+      "prop_sh_beer_pissh_01",
+      "prop_beer_box_01"
+    ]
+  },
+  {
+    "Index": 162,
+    "Title": "Drink beer at safehouse #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2449
+    ],
+    "ObjectAnims": [
+      2450,
+      2451
+    ],
+    "Objects": [
+      "prop_sh_beer_pissh_01",
+      "prop_beer_box_01"
+    ]
+  },
+  {
+    "Index": 163,
+    "Title": "Drink beer at safehouse #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      22905
+    ],
+    "ObjectAnims": [
+      2454,
+      2453
+    ],
+    "Objects": [
+      "prop_sh_beer_pissh_01",
+      "prop_beer_box_01"
+    ]
+  },
+  {
+    "Index": 164,
+    "Title": "Drink beer at safehouse #4",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2454
+    ],
+    "ObjectAnims": [
+      2455,
+      2456
+    ],
+    "Objects": [
+      "prop_sh_beer_pissh_01",
+      "prop_beer_box_01"
+    ]
+  },
+  {
+    "Index": 165,
+    "Title": "Smoke bong at safehouse #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2457
+    ],
+    "ObjectAnims": [
+      22904,
+      2458
+    ],
+    "Objects": [
+      "prop_sh_bong_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 166,
+    "Title": "Smoke bong beer at safehouse #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2459
+    ],
+    "ObjectAnims": [
+      22903,
+      22902
+    ],
+    "Objects": [
+      "prop_sh_bong_01",
+      "v_res_tt_lighter"
+    ]
+  },
+  {
+    "Index": 167,
+    "Title": "Smoke bong beer at safehouse #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2460
+    ],
+    "ObjectAnims": [
+      22898,
+      22900
+    ],
+    "Objects": [
+      "prop_sh_bong_01",
+      "ex_prop_exec_lighter_01"
+    ]
+  },
+  {
+    "Index": 168,
+    "Title": "Smoke bong beer at safehouse #4",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2461
+    ],
+    "ObjectAnims": [
+      22899,
+      22901
+    ],
+    "Objects": [
+      "prop_sh_bong_01",
+      "lux_prop_lighter_luxe"
+    ]
+  },
+  {
+    "Index": 169,
+    "Title": "Drink whiskey at safehouse #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      22896
+    ],
+    "ObjectAnims": [
+      2465,
+      2464
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 170,
+    "Title": "Drink whiskey at safehouse #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2467
+    ],
+    "ObjectAnims": [
+      2468,
+      2469
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 171,
+    "Title": "Drink whiskey at safehouse #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2470
+    ],
+    "ObjectAnims": [
+      2471,
+      2472
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 172,
+    "Title": "Drink whiskey at safehouse #4",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2473
+    ],
+    "ObjectAnims": [
+      22895,
+      2474
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 173,
+    "Title": "Drink wine at safehouse #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2477
+    ],
+    "ObjectAnims": [
+      2478,
+      2480,
+      2479
+    ],
+    "Objects": [
+      "prop_wine_bot_01",
+      "p_wine_glass_s",
+      "prop_sh_wine_glass"
+    ]
+  },
+  {
+    "Index": 174,
+    "Title": "Drink wine at safehouse #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2481
+    ],
+    "ObjectAnims": [
+      22893,
+      22894,
+      2482
+    ],
+    "Objects": [
+      "prop_wine_bot_01",
+      "p_wine_glass_s",
+      "prop_sh_wine_glass"
+    ]
+  },
+  {
+    "Index": 175,
+    "Title": "Drink wine at safehouse #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2483
+    ],
+    "ObjectAnims": [
+      2484,
+      2486,
+      2485
+    ],
+    "Objects": [
+      "prop_wine_bot_02",
+      "p_wine_glass_s",
+      "prop_sh_wine_glass"
+    ]
+  },
+  {
+    "Index": 176,
+    "Title": "Drink wine at safehouse #4",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      2487
+    ],
+    "ObjectAnims": [
+      2488,
+      2490,
+      2489
+    ],
+    "Objects": [
+      "prop_wine_bot_02",
+      "p_wine_glass_s",
+      "prop_sh_wine_glass"
+    ]
+  },
+  {
+    "Index": 177,
+    "Title": "Drink wheatgrass at safehouse",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      22897
+    ],
+    "ObjectAnims": [
+      2462
+    ],
+    "Objects": [
+      "p_w_grass_gls_s"
+    ]
+  },
+  {
+    "Index": 178,
+    "Title": "Car knockout",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5188,
+      5189
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 179,
+    "Title": "Motorcycle knockout",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      5191,
+      5192
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 180,
+    "Title": "Arm wrestling winner #1",
+    "Category": "Sports",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6206,
+      6208
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 181,
+    "Title": "Arm wrestling winner #2",
+    "Category": "Sports",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      6210,
+      6212
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 182,
+    "Title": "CPR",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10902,
+      10903
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 183,
+    "Title": "CPR Cower",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10904,
+      10905
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 184,
+    "Title": "Miss switch in car",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      12031,
+      12032,
+      12030
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 185,
+    "Title": "mid_mission_inside_helicopter_lester ",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12036,
+      12037
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 186,
+    "Title": "shop_ig_4_customer",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12042,
+      12045
+    ],
+    "ObjectAnims": [
+      12043,
+      12044
+    ],
+    "Objects": [
+      "v_ilev_ta_door",
+      "v_ilev_ta_tatgun"
+    ]
+  },
+  {
+    "Index": 187,
+    "Title": "artist_finishes_up_his_tattoo_artist",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12055,
+      1253
+    ],
+    "ObjectAnims": [
+      12054
+    ],
+    "Objects": [
+      "v_ilev_ta_door"
+    ]
+  },
+  {
+    "Index": 188,
+    "Title": "Enter shop",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12058,
+      12059
+    ],
+    "ObjectAnims": [
+      12060,
+      12057
+    ],
+    "Objects": [
+      "v_ilev_ta_door",
+      "v_ilev_ta_door"
+    ]
+  },
+  {
+    "Index": 189,
+    "Title": "Tattoo #2",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14856,
+      14857
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 190,
+    "Title": "Enter home #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      12062
+    ],
+    "ObjectAnims": [
+      12064
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 191,
+    "Title": "Enter home #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      12066
+    ],
+    "ObjectAnims": [
+      12069
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 192,
+    "Title": "threaten_ortega_trev",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12107,
+      12106,
+      12105
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 193,
+    "Title": "dialogue_b_ron",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      12157,
+      12156
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 194,
+    "Title": "jump_out_of_van_ds",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      12169,
+      12170
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 195,
+    "Title": "bikers_from_van_ped_a",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      12171,
+      12172
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 196,
+    "Title": "bikers_from_van_peda",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      12173,
+      12174
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 197,
+    "Title": "call_biker_biker",
+    "Category": "Friendly interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      12197,
+      12198
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 198,
+    "Title": "misstrevor3 bike_chat_a_1 intro",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12236,
+      12237
+    ],
+    "ObjectAnims": [
+      12238,
+      12239
+    ],
+    "Objects": [
+      "daemon",
+      "daemon"
+    ]
+  },
+  {
+    "Index": 199,
+    "Title": "misstrevor3 bike_chat_b_loop_1 loop",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12240,
+      12241
+    ],
+    "ObjectAnims": [
+      12242,
+      12243
+    ],
+    "Objects": [
+      "daemon",
+      "daemon"
+    ]
+  },
+  {
+    "Index": 200,
+    "Title": "misstrevor3 bike_chat_b_outro_1 outro",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12245,
+      12246
+    ],
+    "ObjectAnims": [
+      12247,
+      12248
+    ],
+    "Objects": [
+      "daemon",
+      "daemon"
+    ]
+  },
+  {
+    "Index": 201,
+    "Title": "Beatup dockworker intro",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12267,
+      12268,
+      12269
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 202,
+    "Title": "Beatup dockworker main",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12264,
+      12265,
+      12266
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 203,
+    "Title": "Beatup dockworker exit",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12258,
+      12259,
+      12260
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 204,
+    "Title": "Beatup dockworker idle",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12261,
+      12262,
+      12263
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 205,
+    "Title": "Shove",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      12270,
+      12271
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 206,
+    "Title": "Dive clear",
+    "Category": "Other",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      12281,
+      12282
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 207,
+    "Title": "Jump out of van",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      12289,
+      12290
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 208,
+    "Title": "Store hold up cash",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13107
+    ],
+    "ObjectAnims": [
+      13108,
+      13109
+    ],
+    "Objects": [
+      "p_poly_bag_01_s",
+      "p_till_01_s"
+    ]
+  },
+  {
+    "Index": 209,
+    "Title": "Purchase beer",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13111
+    ],
+    "ObjectAnims": [
+      13110
+    ],
+    "Objects": [
+      "prop_beer_pissh"
+    ]
+  },
+  {
+    "Index": 210,
+    "Title": "Purchase beerbox",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13113
+    ],
+    "ObjectAnims": [
+      13112
+    ],
+    "Objects": [
+      "v_ret_ml_beerjak2"
+    ]
+  },
+  {
+    "Index": 211,
+    "Title": "Purchase chocbar",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13115
+    ],
+    "ObjectAnims": [
+      13114
+    ],
+    "Objects": [
+      "prop_choc_ego"
+    ]
+  },
+  {
+    "Index": 212,
+    "Title": "Purchase cigarette",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13117
+    ],
+    "ObjectAnims": [
+      13116
+    ],
+    "Objects": [
+      "prop_fag_packet_01"
+    ]
+  },
+  {
+    "Index": 213,
+    "Title": "Lap dance",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      13124,
+      13123
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 214,
+    "Title": "Arrest back-left",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13158,
+      13172
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 215,
+    "Title": "Arrest back-right",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13159,
+      13173
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 216,
+    "Title": "Arrest forward-left",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13161,
+      13174
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 217,
+    "Title": "Arrest forward-right",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13162,
+      13175
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 218,
+    "Title": "Arrest on floor back-left",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13180,
+      13181
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 219,
+    "Title": "Arrest on floor back-right",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13184,
+      13185
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 220,
+    "Title": "Arrest on floor front-left",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13188,
+      13189
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 221,
+    "Title": "Arrest on floor front-right",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13192,
+      13193
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 222,
+    "Title": "Buzz in friend",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      13392,
+      13393
+    ],
+    "ObjectAnims": [
+      13391
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 223,
+    "Title": "Enter door left #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      13411
+    ],
+    "ObjectAnims": [
+      13410
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 224,
+    "Title": "Enter door left #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      13414
+    ],
+    "ObjectAnims": [
+      13413
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 225,
+    "Title": "Enter door right",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      13418
+    ],
+    "ObjectAnims": [
+      13417
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 226,
+    "Title": "Exit door left",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      13422
+    ],
+    "ObjectAnims": [
+      13421
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 227,
+    "Title": "Exit door right",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      13426
+    ],
+    "ObjectAnims": [
+      13425
+    ],
+    "Objects": [
+      "v_ilev_fh_door02"
+    ]
+  },
+  {
+    "Index": 228,
+    "Title": "Lamar's introduction to multiplayer female",
+    "Category": "Friendly interaction",
+    "ActorsAligned": false,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      13528,
+      13529
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 229,
+    "Title": "Lamar's introduction to multiplayer male",
+    "Category": "Friendly interaction",
+    "ActorsAligned": false,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      13530,
+      13531
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 230,
+    "Title": "Shoot out",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13633,
+      13634
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 231,
+    "Title": "Handshake",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13669,
+      13670
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 232,
+    "Title": "High five",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13672,
+      13673
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 233,
+    "Title": "Hugs",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13675,
+      13676
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 234,
+    "Title": "Kisses",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13678,
+      13679
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 235,
+    "Title": "Lap dance safehouse",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      13764,
+      13765
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 236,
+    "Title": "Drink whiskey #1 shot",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13952
+    ],
+    "ObjectAnims": [
+      13957,
+      13959
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 237,
+    "Title": "Drink whiskey #2 shot",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13968
+    ],
+    "ObjectAnims": [
+      13973,
+      13975
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 238,
+    "Title": "Drink whiskey #3 shot",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13980
+    ],
+    "ObjectAnims": [
+      13985,
+      13987
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 239,
+    "Title": "Drink whiskey #4 shot",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13960
+    ],
+    "ObjectAnims": [
+      13965,
+      13967
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 240,
+    "Title": "Drink whiskey #5 shot",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13944
+    ],
+    "ObjectAnims": [
+      13949,
+      13951
+    ],
+    "Objects": [
+      "prop_cs_whiskey_bottle",
+      "ex_p_ex_tumbler_01_s"
+    ]
+  },
+  {
+    "Index": 241,
+    "Title": "Torture, wrench intro",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9485,
+      9487
+    ],
+    "ObjectAnims": [
+      9482,
+      9488
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "prop_cs_wrench"
+    ]
+  },
+  {
+    "Index": 242,
+    "Title": "Torture, wrench #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.65,
+    "ActorAnims": [
+      9458,
+      9460
+    ],
+    "ObjectAnims": [
+      9455,
+      9462
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "prop_cs_wrench"
+    ]
+  },
+  {
+    "Index": 243,
+    "Title": "Torture, wrench #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.65,
+    "ActorAnims": [
+      9467,
+      9469
+    ],
+    "ObjectAnims": [
+      9464,
+      9471
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "prop_cs_wrench"
+    ]
+  },
+  {
+    "Index": 244,
+    "Title": "Torture, wrench #3",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.65,
+    "ActorAnims": [
+      9476,
+      9478
+    ],
+    "ObjectAnims": [
+      9473,
+      9480
+    ],
+    "Objects": [
+      "prop_torture_ch_01",
+      "prop_cs_wrench"
+    ]
+  },
+  {
+    "Index": 245,
+    "Title": "Take off mask",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9508
+    ],
+    "ObjectAnims": [
+      9509
+    ],
+    "Objects": [
+      "prop_mask_ballistic"
+    ]
+  },
+  {
+    "Index": 246,
+    "Title": "Driver crying #1",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9562,
+      9560
+    ],
+    "ObjectAnims": [
+      9558
+    ],
+    "Objects": [
+      "bodhi"
+    ]
+  },
+  {
+    "Index": 247,
+    "Title": "Driver crying #2",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9563,
+      9561
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 248,
+    "Title": "Holdup (humane elevator #1)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9564,
+      9569,
+      9565
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 249,
+    "Title": "Holdup (humane elevator #2)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9570,
+      9567,
+      9571
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 250,
+    "Title": "Move through labs #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9575,
+      9576
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 251,
+    "Title": "Scientists working base",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9583,
+      9584
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 252,
+    "Title": "Scientists working #1",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9579,
+      9580
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 253,
+    "Title": "Scientists working #2",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9581,
+      9582
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 254,
+    "Title": "Scientists working #3",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9585,
+      9586
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 255,
+    "Title": "Holdup (scientists working #1)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9587,
+      9590,
+      9591
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 256,
+    "Title": "Driver sad, push passenger away",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9603,
+      9602
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 257,
+    "Title": "Driver tells passenger to stop",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9605,
+      9604
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 258,
+    "Title": "Move through labs #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9606,
+      9607
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 259,
+    "Title": "Holdup (use keycard)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9608,
+      9610,
+      9609
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 260,
+    "Title": "Holdup (scientist walking)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9622,
+      9621
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 261,
+    "Title": "Holdup (press button)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9625,
+      9627,
+      9626
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 262,
+    "Title": "Take chemical",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      9632
+    ],
+    "ObjectAnims": [
+      9634,
+      9635
+    ],
+    "Objects": [
+      "prop_cs_vial_01",
+      "p_chem_vial_02b_s"
+    ]
+  },
+  {
+    "Index": 263,
+    "Title": "Insert chemical",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      9667
+    ],
+    "ObjectAnims": [
+      9668,
+      9669
+    ],
+    "Objects": [
+      "prop_cs_vial_01",
+      "p_chem_vial_02b_s"
+    ]
+  },
+  {
+    "Index": 264,
+    "Title": "Double doors (two actors)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 1.3,
+    "ActorAnims": [
+      9683,
+      9684
+    ],
+    "ObjectAnims": [
+      9685,
+      9686
+    ],
+    "Objects": [
+      "v_ilev_bl_door_l",
+      "v_ilev_bl_door_r"
+    ]
+  },
+  {
+    "Index": 265,
+    "Title": "Door kick #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11026
+    ],
+    "ObjectAnims": [
+      11029
+    ],
+    "Objects": [
+      "v_ilev_fa_frontdoor"
+    ]
+  },
+  {
+    "Index": 266,
+    "Title": "Mopping (wash mop)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9716
+    ],
+    "ObjectAnims": [
+      9715
+    ],
+    "Objects": [
+      "prop_cs_mop_s",
+      "prop_cs_mopbucket_01"
+    ]
+  },
+  {
+    "Index": 267,
+    "Title": "Mopping (scrub)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9731
+    ],
+    "ObjectAnims": [
+      9732
+    ],
+    "Objects": [
+      "prop_cs_mop_s",
+      "prop_cs_mopbucket_01"
+    ]
+  },
+  {
+    "Index": 268,
+    "Title": "Mopping (scrub small)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      9735
+    ],
+    "ObjectAnims": [
+      9734
+    ],
+    "Objects": [
+      "prop_cs_mop_s",
+      "prop_cs_mopbucket_01"
+    ]
+  },
+  {
+    "Index": 269,
+    "Title": "Show ID",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9740,
+      9739
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 270,
+    "Title": "Michael's death (hanging)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.2,
+    "ActorAnims": [
+      9824,
+      9826
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 271,
+    "Title": "Michael's death (dropped)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.2,
+    "ActorAnims": [
+      9820,
+      9821
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 272,
+    "Title": "Michael's death (headbutt)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.2,
+    "ActorAnims": [
+      9822,
+      9823
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 273,
+    "Title": "Devin hide in box #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9837
+    ],
+    "ObjectAnims": [
+      9836,
+      9838
+    ],
+    "Objects": [
+      "p_devin_box_01_s",
+      "prop_cs_tablet"
+    ]
+  },
+  {
+    "Index": 274,
+    "Title": "Devin hide in box #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9840
+    ],
+    "ObjectAnims": [
+      9839,
+      9841
+    ],
+    "Objects": [
+      "p_devin_box_01_s",
+      "prop_cs_tablet"
+    ]
+  },
+  {
+    "Index": 275,
+    "Title": "Push car",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      9846,
+      9847,
+      9848
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 276,
+    "Title": "Dogs humping enter",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      9961,
+      9962
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 277,
+    "Title": "Dogs humping loop",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      9969,
+      9970
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 278,
+    "Title": "Dogs humping exit #1",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      9963,
+      9964
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 279,
+    "Title": "Dogs humping exit #2",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      9966,
+      9968,
+      9967
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 280,
+    "Title": "Get in back of van with dog",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      9988,
+      9987
+    ],
+    "ObjectAnims": [
+      9989
+    ],
+    "Objects": [
+      "speedo"
+    ]
+  },
+  {
+    "Index": 281,
+    "Title": "Wheelchair - turn right",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      9889
+    ],
+    "ObjectAnims": [
+      9890
+    ],
+    "Objects": [
+      "prop_wheelchair_01_s"
+    ]
+  },
+  {
+    "Index": 282,
+    "Title": "Wheelchair - stationary",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      9893
+    ],
+    "ObjectAnims": [
+      9894
+    ],
+    "Objects": [
+      "prop_wheelchair_01_s"
+    ]
+  },
+  {
+    "Index": 283,
+    "Title": "Wheelchair - turn left",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      9895
+    ],
+    "ObjectAnims": [
+      9896
+    ],
+    "Objects": [
+      "prop_wheelchair_01_s"
+    ]
+  },
+  {
+    "Index": 284,
+    "Title": "Wheelchair - use computer",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      9897
+    ],
+    "ObjectAnims": [
+      9898
+    ],
+    "Objects": [
+      "prop_wheelchair_01_s"
+    ]
+  },
+  {
+    "Index": 285,
+    "Title": "Throw passengers phone",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      9915,
+      9916
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 286,
+    "Title": "Get out of van (injured)",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      9910
+    ],
+    "ObjectAnims": [
+      9912
+    ],
+    "Objects": [
+      "speedo"
+    ]
+  },
+  {
+    "Index": 287,
+    "Title": "Get out of van with dog",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      9924,
+      9923,
+      9925
+    ],
+    "ObjectAnims": [
+      9926
+    ],
+    "Objects": [
+      "speedo"
+    ]
+  },
+  {
+    "Index": 288,
+    "Title": "Open door (strip club)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      9997
+    ],
+    "ObjectAnims": [
+      9999
+    ],
+    "Objects": [
+      "prop_strip_door_01"
+    ]
+  },
+  {
+    "Index": 289,
+    "Title": "Hairdressers leave",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10028,
+      10041
+    ],
+    "ObjectAnims": [
+      10031,
+      10056
+    ],
+    "Objects": [
+      "v_ilev_bs_door",
+      "v_serv_bs_scissors"
+    ]
+  },
+  {
+    "Index": 290,
+    "Title": "Hairdressers sitdown",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10044,
+      10037
+    ],
+    "ObjectAnims": [
+      10052
+    ],
+    "Objects": [
+      "v_serv_bs_scissors"
+    ]
+  },
+  {
+    "Index": 291,
+    "Title": "Hairdressers haircut",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10086,
+      10075
+    ],
+    "ObjectAnims": [
+      10096
+    ],
+    "Objects": [
+      "v_serv_bs_scissors"
+    ]
+  },
+  {
+    "Index": 292,
+    "Title": "Throw helmet",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.7,
+    "ActorAnims": [
+      10160,
+      10159
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 293,
+    "Title": "Break door axe #1",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10190,
+      10188,
+      10189
+    ],
+    "ObjectAnims": [
+      10187
+    ],
+    "Objects": [
+      "prop_ld_fireaxe"
+    ]
+  },
+  {
+    "Index": 294,
+    "Title": "Break door axe #2",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10199,
+      10198,
+      10197
+    ],
+    "ObjectAnims": [
+      10196
+    ],
+    "Objects": [
+      "prop_ld_fireaxe"
+    ]
+  },
+  {
+    "Index": 295,
+    "Title": "Idle at computer #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10249
+    ],
+    "ObjectAnims": [
+      10244,
+      10245,
+      10248
+    ],
+    "Objects": [
+      "p_clb_officechair_s",
+      "prop_cs_keyboard_01",
+      "prop_cs_mouse_01"
+    ]
+  },
+  {
+    "Index": 296,
+    "Title": "Idle at computer #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10261
+    ],
+    "ObjectAnims": [
+      10256,
+      10257,
+      10260
+    ],
+    "Objects": [
+      "p_clb_officechair_s",
+      "prop_cs_keyboard_01",
+      "prop_cs_mouse_01"
+    ]
+  },
+  {
+    "Index": 297,
+    "Title": "Idle at computer #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10267
+    ],
+    "ObjectAnims": [
+      10262,
+      10263,
+      10266
+    ],
+    "Objects": [
+      "p_clb_officechair_s",
+      "prop_cs_keyboard_01",
+      "prop_cs_mouse_01"
+    ]
+  },
+  {
+    "Index": 298,
+    "Title": "Pull to feet (alive)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10363,
+      10361
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 299,
+    "Title": "Pull to feet (dead)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10372,
+      10370
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 300,
+    "Title": "Stab guard",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      10563,
+      10562
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 301,
+    "Title": "Enterboat action",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      10573
+    ],
+    "ObjectAnims": [
+      10575
+    ],
+    "Objects": [
+      "p_po1_01_doorm_s"
+    ]
+  },
+  {
+    "Index": 302,
+    "Title": "Enterboat stealth",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      10576
+    ],
+    "ObjectAnims": [
+      10578
+    ],
+    "Objects": [
+      "p_po1_01_doorm_s"
+    ]
+  },
+  {
+    "Index": 303,
+    "Title": "Back massage",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10583,
+      10582
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 304,
+    "Title": "Leg massage",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10609,
+      10608
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 305,
+    "Title": "Dock beatup #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10665,
+      10666,
+      10667
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 306,
+    "Title": "Dock beatup #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10672,
+      10673,
+      10674
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 307,
+    "Title": "Grab money, duffel (enter)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1461
+    ],
+    "ObjectAnims": [
+      25701,
+      25700
+    ],
+    "Objects": [
+      "p_ld_heist_bag_s_1",
+      "p_csh_strap_01_s"
+    ]
+  },
+  {
+    "Index": 308,
+    "Title": "Grab money, duffel (loop)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      1463
+    ],
+    "ObjectAnims": [
+      1464,
+      1467
+    ],
+    "Objects": [
+      "p_ld_heist_bag_s_1",
+      "p_csh_strap_01_s"
+    ]
+  },
+  {
+    "Index": 309,
+    "Title": "Grab money, duffel (exit)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      25702
+    ],
+    "ObjectAnims": [
+      25699,
+      1462
+    ],
+    "Objects": [
+      "p_ld_heist_bag_s_1",
+      "p_csh_strap_01_s"
+    ]
+  },
+  {
+    "Index": 310,
+    "Title": "Wheelchair idle",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      11397
+    ],
+    "ObjectAnims": [
+      11398
+    ],
+    "Objects": [
+      "prop_wheelchair_01_s"
+    ]
+  },
+  {
+    "Index": 311,
+    "Title": "Push up stairs",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.2,
+    "ActorAnims": [
+      10699,
+      10700,
+      10698
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 312,
+    "Title": "Box falls",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10734,
+      10733,
+      10732,
+      10731
+    ],
+    "ObjectAnims": [
+      10730
+    ],
+    "Objects": [
+      "prop_cs_package_01"
+    ]
+  },
+  {
+    "Index": 313,
+    "Title": "Chatting leaning on wall (enter)",
+    "Category": "Friendly interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      10741,
+      10742
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 314,
+    "Title": "Chatting leaning on wall (base)",
+    "Category": "Friendly interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      10739,
+      10740
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 315,
+    "Title": "Chatting leaning on wall (exit)",
+    "Category": "Friendly interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      10743,
+      10744
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 316,
+    "Title": "Exit car with stick and argue #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      10805,
+      10806
+    ],
+    "ObjectAnims": [
+      10804
+    ],
+    "Objects": [
+      "asea"
+    ]
+  },
+  {
+    "Index": 317,
+    "Title": "Exit car with stick and argue #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.35,
+    "ActorAnims": [
+      10802,
+      10803
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 318,
+    "Title": "Catch bag",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10923,
+      10926
+    ],
+    "ObjectAnims": [
+      10922
+    ],
+    "Objects": [
+      "p_ld_heist_bag_s"
+    ]
+  },
+  {
+    "Index": 319,
+    "Title": "Unlock door #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10941
+    ],
+    "ObjectAnims": [
+      10940
+    ],
+    "Objects": [
+      "v_ilev_janitor_frontdoor"
+    ]
+  },
+  {
+    "Index": 320,
+    "Title": "Unlock door #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      10939
+    ],
+    "ObjectAnims": [
+      10938
+    ],
+    "Objects": [
+      "v_ilev_janitor_frontdoor"
+    ]
+  },
+  {
+    "Index": 321,
+    "Title": "Exit tank",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      10956,
+      10957,
+      10958
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 322,
+    "Title": "Heli crash",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      10991
+    ],
+    "Objects": [
+      "maverick"
+    ]
+  },
+  {
+    "Index": 323,
+    "Title": "Exit van (bank heist)",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      10996,
+      10993
+    ],
+    "ObjectAnims": [
+      10999
+    ],
+    "Objects": [
+      "burrito"
+    ]
+  },
+  {
+    "Index": 324,
+    "Title": "Ready to enter (bank heist)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      11003,
+      11000
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 325,
+    "Title": "Blowtorch door intro (bank heist)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11016
+    ],
+    "ObjectAnims": [
+      11018,
+      11015,
+      11019
+    ],
+    "Objects": [
+      "prop_welding_mask_01_s",
+      "prop_tool_blowtorch",
+      "v_ilev_cbankvaulgate01"
+    ]
+  },
+  {
+    "Index": 326,
+    "Title": "Blowtorch door loop (bank heist)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11021
+    ],
+    "ObjectAnims": [
+      11023,
+      11020,
+      11024
+    ],
+    "Objects": [
+      "prop_welding_mask_01_s",
+      "prop_tool_blowtorch",
+      "v_ilev_cbankvaulgate01"
+    ]
+  },
+  {
+    "Index": 327,
+    "Title": "Blowtorch door exit (bank heist)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11013,
+      11026
+    ],
+    "ObjectAnims": [
+      11012,
+      11025,
+      11029
+    ],
+    "Objects": [
+      "prop_tool_blowtorch",
+      "prop_welding_mask_01_s",
+      "v_ilev_cbankvaulgate01"
+    ]
+  },
+  {
+    "Index": 328,
+    "Title": "Empty safe exit (bank heist)",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11041,
+      11044
+    ],
+    "ObjectAnims": [
+      11042,
+      11045
+    ],
+    "Objects": [
+      "p_ld_heist_bag_s_1",
+      "p_ld_heist_bag_s_1"
+    ]
+  },
+  {
+    "Index": 329,
+    "Title": "Walk in bank, gunmen (bank heist)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      11112,
+      11097
+    ],
+    "ObjectAnims": [
+      11113,
+      11114,
+      11094,
+      11095
+    ],
+    "Objects": [
+      "p_ld_heist_bag_s_1",
+      "p_csh_strap_01_s",
+      "v_ilev_bank4door02",
+      "v_ilev_bank4door01"
+    ]
+  },
+  {
+    "Index": 330,
+    "Title": "Walk in bank, hostages (bank heist)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      11096,
+      11108,
+      11109,
+      11110,
+      11111
+    ],
+    "ObjectAnims": [
+      11093
+    ],
+    "Objects": [
+      "v_ilev_cbankcountdoor01"
+    ]
+  },
+  {
+    "Index": 331,
+    "Title": "Hide behind door (bank heist)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      11116
+    ],
+    "ObjectAnims": [
+      11117
+    ],
+    "Objects": [
+      "v_ilev_cf_officedoor"
+    ]
+  },
+  {
+    "Index": 332,
+    "Title": "Cops investigate bank #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 2.6,
+    "ActorAnims": [
+      11132,
+      11129,
+      11130,
+      11131
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 333,
+    "Title": "Cops investigate bank #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 2.6,
+    "ActorAnims": [
+      11140,
+      11142,
+      11143,
+      11137,
+      11138,
+      11139
+    ],
+    "ObjectAnims": [
+      11141
+    ],
+    "Objects": [
+      "police"
+    ]
+  },
+  {
+    "Index": 334,
+    "Title": "Shoot target on floor",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11175,
+      11174,
+      11176
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 335,
+    "Title": "Throw paperball",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.8,
+    "ActorAnims": [
+      11360
+    ],
+    "ObjectAnims": [
+      11361,
+      11362
+    ],
+    "Objects": [
+      "prop_off_chair_01",
+      "prop_paper_ball"
+    ]
+  },
+  {
+    "Index": 336,
+    "Title": "Climb from plane wreckage",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      11521,
+      11522
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 337,
+    "Title": "Knife struggle (top wins)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11609,
+      11610
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 338,
+    "Title": "Knife struggle (tackle)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11614,
+      11616
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 339,
+    "Title": "Knife struggle (loop)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11617,
+      11618
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 340,
+    "Title": "Run from heli crash",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      11649,
+      11650,
+      11648
+    ],
+    "ObjectAnims": [
+      11646
+    ],
+    "Objects": [
+      "buzzard"
+    ]
+  },
+  {
+    "Index": 341,
+    "Title": "Throw passport from car",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      11749,
+      11750
+    ],
+    "ObjectAnims": [
+      11751
+    ],
+    "Objects": [
+      "prop_passport_01"
+    ]
+  },
+  {
+    "Index": 342,
+    "Title": "Yankton hostages loop (prologue)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11756,
+      11761,
+      11758,
+      11759,
+      11760,
+      11757
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 343,
+    "Title": "Yankton hostages enter (prologue)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11762,
+      11772,
+      11768,
+      11770,
+      11771,
+      11766
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 344,
+    "Title": "Push hostage (prologue)",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11796,
+      11797
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 345,
+    "Title": "Shut door with rifle",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11800
+    ],
+    "ObjectAnims": [
+      11801
+    ],
+    "Objects": [
+      "v_ilev_cd_door2"
+    ]
+  },
+  {
+    "Index": 346,
+    "Title": "Human shield loop",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11811,
+      11813
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 347,
+    "Title": "Human shield exit",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11817,
+      11818
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 348,
+    "Title": "Pick up bag with rifle",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11816
+    ],
+    "ObjectAnims": [
+      11815,
+      11819
+    ],
+    "Objects": [
+      "p_ld_heist_bag_s_1",
+      "p_csh_strap_01_s"
+    ]
+  },
+  {
+    "Index": 349,
+    "Title": "Kick down hostage",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11850,
+      11849
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 350,
+    "Title": "IAA human shield intro",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11942,
+      11943
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 351,
+    "Title": "IAA human shield crouched loop",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11939,
+      11940
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 352,
+    "Title": "IAA human shield standing loop",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11938,
+      11941
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 353,
+    "Title": "Roughen up, grab shirt intro",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.7,
+    "ActorAnims": [
+      11955,
+      11957
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 354,
+    "Title": "Roughen up, grab shirt shake",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.7,
+    "ActorAnims": [
+      11958,
+      11960
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 355,
+    "Title": "Run out of car with film",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.25,
+    "ActorAnims": [
+      11970
+    ],
+    "ObjectAnims": [
+      11969
+    ],
+    "Objects": [
+      "asea"
+    ]
+  },
+  {
+    "Index": 356,
+    "Title": "Tracey human shield intro",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11974,
+      11975
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 357,
+    "Title": "Tracey human shield idle 1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11983,
+      11984
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 358,
+    "Title": "Tracey human shield idle 2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11986,
+      11987
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 359,
+    "Title": "Tracey human shield idle 3",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11989,
+      11990
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 360,
+    "Title": "Tracey human shield killed",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11980,
+      11981
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 361,
+    "Title": "Amanda human shield idle 1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      12007,
+      12006
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 362,
+    "Title": "Amanda human shield idle 2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      12009,
+      12008
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 363,
+    "Title": "Amanda human shield idle 3",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      12011,
+      12010
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 364,
+    "Title": "Amanda human shield idle 3",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      12013,
+      12012
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 365,
+    "Title": "Amanda human shield killed",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      12003,
+      12002
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 366,
+    "Title": "Amanda human shield freed",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      12005,
+      12004
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 367,
+    "Title": "Crying over dead body",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      12089,
+      12090
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 368,
+    "Title": "Neck snap",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13275,
+      13276
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 369,
+    "Title": "Pass package across counter",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13294,
+      13295
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 370,
+    "Title": "Pass pistol across counter",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13296,
+      13297
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 371,
+    "Title": "Pass rifle across counter",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13298,
+      13299
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 372,
+    "Title": "MP intro plane flying",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      13514
+    ],
+    "Objects": [
+      "p_cs_mp_jet_01_s"
+    ]
+  },
+  {
+    "Index": 373,
+    "Title": "MP intro plane landing",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      13516
+    ],
+    "Objects": [
+      "p_cs_mp_jet_01_s"
+    ]
+  },
+  {
+    "Index": 374,
+    "Title": "Mp intro plane look out window",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13519
+    ],
+    "ObjectAnims": [
+      13518
+    ],
+    "Objects": [
+      "p_cs_mp_jet_01_s"
+    ]
+  },
+  {
+    "Index": 375,
+    "Title": "Pin photo to wall",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      13821
+    ],
+    "ObjectAnims": [
+      13822
+    ],
+    "Objects": [
+      "prop_cs_planning_photo"
+    ]
+  },
+  {
+    "Index": 376,
+    "Title": "Payphone conversation #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14122
+    ],
+    "ObjectAnims": [
+      14123
+    ],
+    "Objects": [
+      "p_phonebox_01b_s"
+    ]
+  },
+  {
+    "Index": 377,
+    "Title": "Payphone conversation #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14130
+    ],
+    "ObjectAnims": [
+      14131
+    ],
+    "Objects": [
+      "p_phonebox_01b_s"
+    ]
+  },
+  {
+    "Index": 378,
+    "Title": "Payphone conversation #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14153
+    ],
+    "ObjectAnims": [
+      14154
+    ],
+    "Objects": [
+      "p_phonebox_01b_s"
+    ]
+  },
+  {
+    "Index": 379,
+    "Title": "Payphone conversation #4",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14169
+    ],
+    "ObjectAnims": [
+      14170
+    ],
+    "Objects": [
+      "p_phonebox_01b_s"
+    ]
+  },
+  {
+    "Index": 380,
+    "Title": "Punch passenger out of car",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": -0.7,
+    "ActorAnims": [
+      14182,
+      14181
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 381,
+    "Title": "Put on parachute (male)",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14231
+    ],
+    "ObjectAnims": [
+      14232
+    ],
+    "Objects": [
+      "hei_p_parachute_s_female"
+    ]
+  },
+  {
+    "Index": 382,
+    "Title": "Enter back of campervan",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      14248
+    ],
+    "ObjectAnims": [
+      14250
+    ],
+    "Objects": [
+      "journey"
+    ]
+  },
+  {
+    "Index": 383,
+    "Title": "Exit back of campervan",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      14251
+    ],
+    "ObjectAnims": [
+      14253
+    ],
+    "Objects": [
+      "journey"
+    ]
+  },
+  {
+    "Index": 384,
+    "Title": "Stand off bikers",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.1,
+    "ActorAnims": [
+      14280,
+      14281,
+      14282
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 385,
+    "Title": "Give money to driver (front)",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14286,
+      14288
+    ],
+    "ObjectAnims": [
+      14287
+    ],
+    "Objects": [
+      "hei_prop_heist_cash_pile"
+    ]
+  },
+  {
+    "Index": 386,
+    "Title": "Give money to driver (rear left)",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14289,
+      14291
+    ],
+    "ObjectAnims": [
+      14290
+    ],
+    "Objects": [
+      "hei_prop_heist_cash_pile"
+    ]
+  },
+  {
+    "Index": 387,
+    "Title": "Give money to driver (rear right)",
+    "Category": "Vehicle",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14292,
+      14294
+    ],
+    "ObjectAnims": [
+      14293
+    ],
+    "Objects": [
+      "hei_prop_heist_cash_pile"
+    ]
+  },
+  {
+    "Index": 388,
+    "Title": "Return wallet (female) #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14382,
+      14381
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 389,
+    "Title": "Return wallet (female) #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14393,
+      14392
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 390,
+    "Title": "Return wallet (female) #3",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14389,
+      14388
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 391,
+    "Title": "Return wallet (male) #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14398,
+      14397
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 392,
+    "Title": "Return wallet (male) #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14402,
+      14401
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 393,
+    "Title": "Return wallet (male) #3",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14406,
+      14405
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 394,
+    "Title": "Untie person on floor",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14459,
+      14458
+    ],
+    "ObjectAnims": [
+      14457,
+      14460
+    ],
+    "Objects": [
+      "p_ld_cable_tie_01_s",
+      "p_ld_cable_tie_01_s"
+    ]
+  },
+  {
+    "Index": 395,
+    "Title": "Untie person standing",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14907,
+      14906
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 396,
+    "Title": "Return stolen peyote #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      14468,
+      14467
+    ],
+    "ObjectAnims": [
+      14466
+    ],
+    "Objects": [
+      "peyote"
+    ]
+  },
+  {
+    "Index": 397,
+    "Title": "Return stolen peyote #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      14472,
+      14471
+    ],
+    "ObjectAnims": [
+      14470
+    ],
+    "Objects": [
+      "peyote"
+    ]
+  },
+  {
+    "Index": 398,
+    "Title": "Bag struggle loop #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14500,
+      14499
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 399,
+    "Title": "Bag struggle loop #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14504,
+      14505
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 400,
+    "Title": "Bag struggle, thief takes bag",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14511,
+      14512
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 401,
+    "Title": "Open door, hide intro",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.3,
+    "ActorAnims": [
+      14517
+    ],
+    "ObjectAnims": [
+      14516
+    ],
+    "Objects": [
+      "picador"
+    ]
+  },
+  {
+    "Index": 402,
+    "Title": "Open door, hide loop",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.3,
+    "ActorAnims": [
+      14519
+    ],
+    "ObjectAnims": [
+      14518
+    ],
+    "Objects": [
+      "picador"
+    ]
+  },
+  {
+    "Index": 403,
+    "Title": "Open door, hide outro",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.3,
+    "ActorAnims": [
+      14521
+    ],
+    "ObjectAnims": [
+      14520
+    ],
+    "Objects": [
+      "picador"
+    ]
+  },
+  {
+    "Index": 404,
+    "Title": "Help injured to feet",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14535,
+      14536
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 405,
+    "Title": "Car sex, lying down intro",
+    "Category": "Explicit",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14574,
+      14573
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 406,
+    "Title": "Car sex, lying down loop",
+    "Category": "Explicit",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14576,
+      14575
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 407,
+    "Title": "Car sex, lying down exit",
+    "Category": "Explicit",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14578,
+      14577
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 408,
+    "Title": "Gang intimidation",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14609,
+      14610,
+      14611
+    ],
+    "ObjectAnims": [],
+    "Objects": [
+      "fbi2"
+    ]
+  },
+  {
+    "Index": 409,
+    "Title": "Put prisoner in police car, loop",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.3,
+    "ActorAnims": [
+      14633,
+      14635,
+      14634
+    ],
+    "ObjectAnims": [],
+    "Objects": [
+      "fbi2"
+    ]
+  },
+  {
+    "Index": 410,
+    "Title": "Put prisoner in police car, exit",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.3,
+    "ActorAnims": [
+      14630,
+      14632,
+      14631
+    ],
+    "ObjectAnims": [
+      14629
+    ],
+    "Objects": [
+      "fbi2"
+    ]
+  },
+  {
+    "Index": 411,
+    "Title": "Kidnap, drag to van",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      14650,
+      14646,
+      14648
+    ],
+    "ObjectAnims": [
+      14640
+    ],
+    "Objects": [
+      "burrito"
+    ]
+  },
+  {
+    "Index": 412,
+    "Title": "Take dog collar",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14707,
+      14705
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 413,
+    "Title": "Get in stockade",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      14783
+    ],
+    "ObjectAnims": [
+      14784
+    ],
+    "Objects": [
+      "stockade"
+    ]
+  },
+  {
+    "Index": 414,
+    "Title": "Put case in stockade (calm)",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      14777
+    ],
+    "ObjectAnims": [
+      14787
+    ],
+    "Objects": [
+      "stockade"
+    ]
+  },
+  {
+    "Index": 415,
+    "Title": "Put case in stockade (panic)",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      14778
+    ],
+    "ObjectAnims": [
+      14788
+    ],
+    "Objects": [
+      "stockade"
+    ]
+  },
+  {
+    "Index": 416,
+    "Title": "Shop robbery, customer through door",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      14826,
+      14831,
+      14827,
+      14830
+    ],
+    "ObjectAnims": [
+      14828
+    ],
+    "Objects": [
+      "p_poly_bag_01_s"
+    ]
+  },
+  {
+    "Index": 417,
+    "Title": "Examine car together",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      14859,
+      14860
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 418,
+    "Title": "Smoke blunt, light",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.7,
+    "ActorAnims": [
+      15082
+    ],
+    "ObjectAnims": [
+      15083,
+      15087,
+      15088
+    ],
+    "Objects": [
+      "v_ret_fh_ashtray",
+      "prop_sh_joint_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 419,
+    "Title": "Smoke blunt, loop",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.7,
+    "ActorAnims": [
+      15098
+    ],
+    "ObjectAnims": [
+      15099,
+      15103,
+      15104
+    ],
+    "Objects": [
+      "v_ret_fh_ashtray",
+      "prop_sh_joint_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 420,
+    "Title": "Smoke blunt, exit",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.7,
+    "ActorAnims": [
+      15090
+    ],
+    "ObjectAnims": [
+      15091,
+      15095,
+      15096
+    ],
+    "Objects": [
+      "v_ret_fh_ashtray",
+      "prop_sh_joint_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 421,
+    "Title": "Smoke cigar, enter",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      15326
+    ],
+    "ObjectAnims": [
+      15324,
+      15325
+    ],
+    "Objects": [
+      "prop_sh_cigar_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 422,
+    "Title": "Smoke cigar, exit",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      15333
+    ],
+    "ObjectAnims": [
+      15331,
+      15332
+    ],
+    "Objects": [
+      "prop_sh_cigar_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 423,
+    "Title": "Smoke cigar, loop #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      15339
+    ],
+    "ObjectAnims": [
+      15337,
+      15338
+    ],
+    "Objects": [
+      "prop_sh_cigar_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 424,
+    "Title": "Smoke cigar, loop #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      15346
+    ],
+    "ObjectAnims": [
+      15344,
+      15345
+    ],
+    "Objects": [
+      "prop_sh_cigar_01",
+      "p_cs_lighter_01"
+    ]
+  },
+  {
+    "Index": 425,
+    "Title": "Sit on table, drink beer intro",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      15481
+    ],
+    "ObjectAnims": [
+      15482,
+      15484
+    ],
+    "Objects": [
+      "prop_cs_beer_bot_02",
+      "prop_bottle_cap_01"
+    ]
+  },
+  {
+    "Index": 426,
+    "Title": "Sit on table, drink beer #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      15456
+    ],
+    "ObjectAnims": [
+      15457,
+      15459
+    ],
+    "Objects": [
+      "prop_cs_beer_bot_02",
+      "prop_bottle_cap_01"
+    ]
+  },
+  {
+    "Index": 427,
+    "Title": "Sit on table, drink beer #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      15461
+    ],
+    "ObjectAnims": [
+      15462,
+      15464
+    ],
+    "Objects": [
+      "prop_cs_beer_bot_02",
+      "prop_bottle_cap_01"
+    ]
+  },
+  {
+    "Index": 428,
+    "Title": "Sit on table, drink beer #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      15466
+    ],
+    "ObjectAnims": [
+      15467,
+      15468
+    ],
+    "Objects": [
+      "prop_cs_beer_bot_02",
+      "prop_bottle_cap_01"
+    ]
+  },
+  {
+    "Index": 429,
+    "Title": "Sit on table, drink beer #4",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      15471
+    ],
+    "ObjectAnims": [
+      15472,
+      15474
+    ],
+    "Objects": [
+      "prop_cs_beer_bot_02",
+      "prop_bottle_cap_01"
+    ]
+  },
+  {
+    "Index": 430,
+    "Title": "Sit on table, drink beer #5",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      15476
+    ],
+    "ObjectAnims": [
+      15477,
+      15479
+    ],
+    "Objects": [
+      "prop_cs_beer_bot_02",
+      "prop_bottle_cap_01"
+    ]
+  },
+  {
+    "Index": 431,
+    "Title": "Raspberryjam #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      15590
+    ],
+    "ObjectAnims": [
+      15592
+    ],
+    "Objects": [
+      "p_mr_raspberry_01_s"
+    ]
+  },
+  {
+    "Index": 432,
+    "Title": "Raspberryjam #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      15593
+    ],
+    "ObjectAnims": [
+      15595
+    ],
+    "Objects": [
+      "p_mr_raspberry_01_s"
+    ]
+  },
+  {
+    "Index": 433,
+    "Title": "Raspberryjam #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      15596
+    ],
+    "ObjectAnims": [
+      15598
+    ],
+    "Objects": [
+      "p_mr_raspberry_01_s"
+    ]
+  },
+  {
+    "Index": 434,
+    "Title": "Raspberryjam #4",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      15599
+    ],
+    "ObjectAnims": [
+      15601
+    ],
+    "Objects": [
+      "p_mr_raspberry_01_s"
+    ]
+  },
+  {
+    "Index": 435,
+    "Title": "Huff gas and pass out",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": -0.1,
+    "ActorAnims": [
+      15603
+    ],
+    "ObjectAnims": [
+      15605
+    ],
+    "Objects": [
+      "prop_rolled_sock_02"
+    ]
+  },
+  {
+    "Index": 436,
+    "Title": "Weed depository",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      17089,
+      17091
+    ],
+    "ObjectAnims": [
+      17092
+    ],
+    "Objects": [
+      "p_weed_bottle_s"
+    ]
+  },
+  {
+    "Index": 437,
+    "Title": "Talking to taxi passenger",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17109,
+      17110
+    ],
+    "ObjectAnims": [
+      17111
+    ],
+    "Objects": [
+      "taxi"
+    ]
+  },
+  {
+    "Index": 438,
+    "Title": "Gang taunt loop",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17154,
+      17155,
+      17156,
+      17157
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 439,
+    "Title": "Gang taunt exit",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17149,
+      17150,
+      17151,
+      17152
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 440,
+    "Title": "Stop gang fight loop",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17165,
+      17168,
+      17166,
+      17167
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 441,
+    "Title": "Stop gang fight exit",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17160,
+      17163,
+      17161,
+      16162
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 442,
+    "Title": "Shoved by gangster",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17198,
+      17199
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 443,
+    "Title": "Toss garbage bag",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17211
+    ],
+    "ObjectAnims": [
+      17209
+    ],
+    "Objects": [
+      "prop_cs_rub_binbag_01"
+    ]
+  },
+  {
+    "Index": 444,
+    "Title": "Toss cup",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17225
+    ],
+    "ObjectAnims": [
+      17227
+    ],
+    "Objects": [
+      "p_ing_coffeecup_01"
+    ]
+  },
+  {
+    "Index": 445,
+    "Title": "Ironing clothes loop",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      17231
+    ],
+    "ObjectAnims": [
+      17233
+    ],
+    "Objects": [
+      "prop_cs_ironing_board"
+    ]
+  },
+  {
+    "Index": 446,
+    "Title": "Ironing clothes exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.55,
+    "ActorAnims": [
+      17234
+    ],
+    "ObjectAnims": [
+      17237
+    ],
+    "Objects": [
+      "prop_cs_ironing_board"
+    ]
+  },
+  {
+    "Index": 447,
+    "Title": "Shut laptop, loop",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17259
+    ],
+    "ObjectAnims": [
+      17261
+    ],
+    "Objects": [
+      "p_laptop_02_s"
+    ]
+  },
+  {
+    "Index": 448,
+    "Title": "Shut laptop, exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17254
+    ],
+    "ObjectAnims": [
+      17258
+    ],
+    "Objects": [
+      "p_laptop_02_s"
+    ]
+  },
+  {
+    "Index": 449,
+    "Title": "Tanisha argument",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      17304,
+      17305
+    ],
+    "ObjectAnims": [
+      17307
+    ],
+    "Objects": [
+      "v_ilev_fa_frontdoor"
+    ]
+  },
+  {
+    "Index": 450,
+    "Title": "Throw cup",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17312
+    ],
+    "ObjectAnims": [
+      17314
+    ],
+    "Objects": [
+      "p_ing_coffeecup_01"
+    ]
+  },
+  {
+    "Index": 451,
+    "Title": "Upset talking in bed, exit 1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17370,
+      17376
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 452,
+    "Title": "Upset talking in bed, exit 2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17384,
+      17379
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 453,
+    "Title": "Upset talking in bed, loop 1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17375,
+      17373
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 454,
+    "Title": "Upset talking in bed, loop 2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17387,
+      17385
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 455,
+    "Title": "Gaming together",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17478,
+      17477
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 456,
+    "Title": "Gaming ragequit",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17475,
+      17474
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 457,
+    "Title": "Get out of bed, playful",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17482,
+      17479
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 458,
+    "Title": "Wave goodbye",
+    "Category": "Friendly interaction",
+    "ActorsAligned": false,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17491,
+      17487
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 459,
+    "Title": "Couple on loungechairs, loop",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17502,
+      17499
+    ],
+    "ObjectAnims": [
+      17500,
+      17501
+    ],
+    "Objects": [
+      "lounchchaira",
+      "lounchchairb"
+    ]
+  },
+  {
+    "Index": 460,
+    "Title": "Couple on loungechairs, exit",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17498,
+      17494
+    ],
+    "ObjectAnims": [
+      17496,
+      17497
+    ],
+    "Objects": [
+      "lounchchaira",
+      "lounchchairb"
+    ]
+  },
+  {
+    "Index": 461,
+    "Title": "Pat on back",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17516,
+      17515
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 462,
+    "Title": "Open door for passenger",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17527,
+      17524
+    ],
+    "ObjectAnims": [
+      17526
+    ],
+    "Objects": [
+      "tailgater"
+    ]
+  },
+  {
+    "Index": 463,
+    "Title": "No smoking allowed",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17531,
+      17533
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 464,
+    "Title": "Throw cigarette over railing",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17546
+    ],
+    "ObjectAnims": [
+      17548
+    ],
+    "Objects": [
+      "bg_proc_cigarette01a"
+    ]
+  },
+  {
+    "Index": 465,
+    "Title": "Show wedding ring to hooker",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17555,
+      17554
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 466,
+    "Title": "Read script on bed, loop",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17560
+    ],
+    "ObjectAnims": [
+      17562
+    ],
+    "Objects": [
+      "p_cs_script_s"
+    ]
+  },
+  {
+    "Index": 467,
+    "Title": "Read script on bed, exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17556
+    ],
+    "ObjectAnims": [
+      17559
+    ],
+    "Objects": [
+      "p_cs_script_s"
+    ]
+  },
+  {
+    "Index": 468,
+    "Title": "Rejected entry",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17566,
+      17563
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 469,
+    "Title": "Leave table and kiss",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17579,
+      17574
+    ],
+    "ObjectAnims": [
+      17577,
+      17578
+    ],
+    "Objects": [
+      "prop_chateau_chair_01",
+      "prop_chateau_chair_01"
+    ]
+  },
+  {
+    "Index": 470,
+    "Title": "Comfort while kneeling, loop",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14746,
+      14752
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 471,
+    "Title": "Comfort while kneeling, exit",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14745,
+      14750
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 472,
+    "Title": "Hold hostage, loop",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14756,
+      14753
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 473,
+    "Title": "Hold hostage, victim killed",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      14755,
+      14751
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 474,
+    "Title": "Give cash to passenger",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17652,
+      17653
+    ],
+    "ObjectAnims": [
+      17647,
+      17648
+    ],
+    "Objects": [
+      "tailgater",
+      "prop_cash_pile_02"
+    ]
+  },
+  {
+    "Index": 475,
+    "Title": "Annoy sunbathers",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17687,
+      17686,
+      17685
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 476,
+    "Title": "Leave bar",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17705,
+      17697
+    ],
+    "ObjectAnims": [
+      17698
+    ],
+    "Objects": [
+      "prop_cs_beer_bot_02"
+    ]
+  },
+  {
+    "Index": 477,
+    "Title": "Rub teddy in face",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17718,
+      17713
+    ],
+    "ObjectAnims": [
+      17717
+    ],
+    "Objects": [
+      "p_mr_raspberry_01_s"
+    ]
+  },
+  {
+    "Index": 478,
+    "Title": "Spooning with floyd, exit 1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17732,
+      17731
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 479,
+    "Title": "Spooning with floyd, exit 2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17735,
+      17734
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 480,
+    "Title": "Spooning with floyd, loop",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17738,
+      17737
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 481,
+    "Title": "Block photograph",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -0.9,
+    "ActorAnims": [
+      17749,
+      17747
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 482,
+    "Title": "Throw over bridge, loop",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17754,
+      17755
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 483,
+    "Title": "Throw over bridge, exit",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17757,
+      17758
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 484,
+    "Title": "Chase strippers out of club",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.2,
+    "ActorAnims": [
+      17765,
+      17763,
+      17764,
+      17760
+    ],
+    "ObjectAnims": [
+      17762
+    ],
+    "Objects": [
+      "prop_strip_door_01"
+    ]
+  },
+  {
+    "Index": 485,
+    "Title": "Escorted out",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17792,
+      17788,
+      17790
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 486,
+    "Title": "Console floyd #1",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17807,
+      17805
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 487,
+    "Title": "Console floyd #2",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17817,
+      17815
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 488,
+    "Title": "Eat from trash",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17832
+    ],
+    "ObjectAnims": [
+      17831
+    ],
+    "Objects": [
+      "prop_taco_02"
+    ]
+  },
+  {
+    "Index": 489,
+    "Title": "Guitar beatdown",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17838,
+      17835
+    ],
+    "ObjectAnims": [
+      17837
+    ],
+    "Objects": [
+      "prop_acc_guitar_01_d1"
+    ]
+  },
+  {
+    "Index": 490,
+    "Title": "Strumming guitar",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.05,
+    "ActorAnims": [
+      17839
+    ],
+    "ObjectAnims": [
+      17841
+    ],
+    "Objects": [
+      "prop_acc_guitar_01_d1"
+    ]
+  },
+  {
+    "Index": 491,
+    "Title": "Knockout against wall",
+    "Category": "Advanced Melee",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17855,
+      17853
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 492,
+    "Title": "Throw pineapple",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17890,
+      17886
+    ],
+    "ObjectAnims": [
+      17889
+    ],
+    "Objects": [
+      "prop_pineapple"
+    ]
+  },
+  {
+    "Index": 493,
+    "Title": "Scare tramp",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17918,
+      17917
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 494,
+    "Title": "Steal and throw food",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      17938,
+      17935
+    ],
+    "ObjectAnims": [
+      17937
+    ],
+    "Objects": [
+      "prop_taco_01"
+    ]
+  },
+  {
+    "Index": 495,
+    "Title": "Grab by throat, throw over railing",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17974,
+      17972
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 496,
+    "Title": "Drunk amanda #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17986
+    ],
+    "ObjectAnims": [
+      17987,
+      17988
+    ],
+    "Objects": [
+      "prop_wine_bot_01",
+      "p_wine_glass_s"
+    ]
+  },
+  {
+    "Index": 497,
+    "Title": "Drunk amanda #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17989
+    ],
+    "ObjectAnims": [
+      17990,
+      17991
+    ],
+    "Objects": [
+      "prop_wine_bot_01",
+      "p_wine_glass_s"
+    ]
+  },
+  {
+    "Index": 498,
+    "Title": "Drunk amanda #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      17992
+    ],
+    "ObjectAnims": [
+      17993,
+      17994
+    ],
+    "Objects": [
+      "prop_wine_bot_01",
+      "p_wine_glass_s"
+    ]
+  },
+  {
+    "Index": 499,
+    "Title": "KO Train Driver TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      8469,
+      8471
+    ],
+    "ObjectAnims": [
+      8473
+    ],
+    "Objects": [
+      "freight"
+    ]
+  },
+  {
+    "Index": 500,
+    "Title": "Train Crash TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      8475
+    ],
+    "ObjectAnims": [
+      44004,
+      44002,
+      43998,
+      43999,
+      44000
+    ],
+    "Objects": [
+      "des_traincrash_root1",
+      "des_traincrash_root2",
+      "des_traincrash_root3",
+      "des_traincrash_root4",
+      "des_traincrash_root5"
+    ]
+  },
+  {
+    "Index": 501,
+    "Title": "Crash Into Cargoplane TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      49540
+    ],
+    "ObjectAnims": [
+      49541,
+      49542,
+      49544,
+      49546,
+      49548
+    ],
+    "Objects": [
+      "cargoplane",
+      "cropduster1_skin",
+      "cropduster2_skin",
+      "cropduster3_skin",
+      "cropduster4_skin"
+    ]
+  },
+  {
+    "Index": 502,
+    "Title": "Gas Station Explosion TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      43936,
+      43935,
+      43937
+    ],
+    "Objects": [
+      "des_gasstation_skin01",
+      "des_gasstation_skin02",
+      "des_gasstation_tiles_root"
+    ]
+  },
+  {
+    "Index": 503,
+    "Title": "Destroy Wall TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      43961,
+      43962,
+      43963,
+      43965,
+      43964
+    ],
+    "Objects": [
+      "des_smash2_root",
+      "des_smash2_root2",
+      "des_smash2_root3",
+      "des_smash2_root4",
+      "des_smash2_root005"
+    ]
+  },
+  {
+    "Index": 504,
+    "Title": "Tanker Crash TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      43986
+    ],
+    "Objects": [
+      "des_tankercrash_01"
+    ]
+  },
+  {
+    "Index": 505,
+    "Title": "Tanker Explosion TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      43987,
+      43988
+    ],
+    "Objects": [
+      "des_tankerexplosion_01",
+      "des_tankerexplosion_02"
+    ]
+  },
+  {
+    "Index": 506,
+    "Title": "Cargo Ship Sinks TEST",
+    "Category": "Setpiece",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [],
+    "ObjectAnims": [
+      43966,
+      43969,
+      43970,
+      43967,
+      43968
+    ],
+    "Objects": [
+      "root_scroll_anim_skel",
+      "des_shipsink_01",
+      "des_shipsink_02",
+      "des_shipsink_03",
+      "des_shipsink_04"
+    ]
+  },
+  {
+    "Index": 507,
+    "Title": "Argue & Exit Door #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.8,
+    "ActorAnims": [
+      18036
+    ],
+    "ObjectAnims": [
+      18035
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 508,
+    "Title": "Argue & Exit Door #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.8,
+    "ActorAnims": [
+      18042
+    ],
+    "ObjectAnims": [
+      18041
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 509,
+    "Title": "Argue & Slam Door",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.8,
+    "ActorAnims": [
+      18048
+    ],
+    "ObjectAnims": [
+      18047
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 510,
+    "Title": "Using Vibrator",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18057
+    ],
+    "ObjectAnims": [
+      18058
+    ],
+    "Objects": [
+      "prop_cs_dildo_01"
+    ]
+  },
+  {
+    "Index": 511,
+    "Title": "Throw Vibrator",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18061
+    ],
+    "ObjectAnims": [
+      18062
+    ],
+    "Objects": [
+      "prop_cs_dildo_01"
+    ]
+  },
+  {
+    "Index": 512,
+    "Title": "Enter Home with Bags",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18069
+    ],
+    "ObjectAnims": [
+      18070,
+      18071,
+      18072,
+      18073
+    ],
+    "Objects": [
+      "prop_shopping_bags01",
+      "prop_shopping_bags02",
+      "v_ilev_mm_doorm_l",
+      "v_ilev_mm_doorm_r"
+    ]
+  },
+  {
+    "Index": 513,
+    "Title": "Maid Caught Slacking Off",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18079,
+      18078
+    ],
+    "ObjectAnims": [
+      18080
+    ],
+    "Objects": [
+      "prop_scourer_01"
+    ]
+  },
+  {
+    "Index": 514,
+    "Title": "Clean Pool Base",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18136
+    ],
+    "ObjectAnims": [
+      18137
+    ],
+    "Objects": [
+      "prop_poolskimmer"
+    ]
+  },
+  {
+    "Index": 515,
+    "Title": "Clean Pool #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18138
+    ],
+    "ObjectAnims": [
+      18139
+    ],
+    "Objects": [
+      "prop_poolskimmer"
+    ]
+  },
+  {
+    "Index": 516,
+    "Title": "Clean Pool #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18140
+    ],
+    "ObjectAnims": [
+      18141
+    ],
+    "Objects": [
+      "prop_poolskimmer"
+    ]
+  },
+  {
+    "Index": 517,
+    "Title": "Clean Pool #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18142
+    ],
+    "ObjectAnims": [
+      18143
+    ],
+    "Objects": [
+      "prop_poolskimmer"
+    ]
+  },
+  {
+    "Index": 518,
+    "Title": "Start Lawnmower Base",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18145
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 519,
+    "Title": "Start Lawnmower #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18147
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 520,
+    "Title": "Start Lawnmower #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18149
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 521,
+    "Title": "Start Lawnmower #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18151
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 522,
+    "Title": "Gaming Base",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18167
+    ],
+    "ObjectAnims": [
+      18168,
+      18169
+    ],
+    "Objects": [
+      "p_controller_01_s",
+      "prop_headset_01"
+    ]
+  },
+  {
+    "Index": 523,
+    "Title": "Gaming Exit #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18170
+    ],
+    "ObjectAnims": [
+      18171,
+      18172
+    ],
+    "Objects": [
+      "p_controller_01_s",
+      "prop_headset_01"
+    ]
+  },
+  {
+    "Index": 524,
+    "Title": "Gaming Exit #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18173
+    ],
+    "ObjectAnims": [
+      18174,
+      18175
+    ],
+    "Objects": [
+      "p_controller_01_s",
+      "prop_headset_01"
+    ]
+  },
+  {
+    "Index": 525,
+    "Title": "Search Fridge Base",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18184
+    ],
+    "ObjectAnims": [
+      18185,
+      18186
+    ],
+    "Objects": [
+      "v_ilev_mm_fridge_l",
+      "v_ilev_mm_fridge_r"
+    ]
+  },
+  {
+    "Index": 526,
+    "Title": "Search Fridge #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18187
+    ],
+    "ObjectAnims": [
+      18188,
+      18189
+    ],
+    "Objects": [
+      "v_ilev_mm_fridge_l",
+      "v_ilev_mm_fridge_r"
+    ]
+  },
+  {
+    "Index": 527,
+    "Title": "Search Fridge #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18190
+    ],
+    "ObjectAnims": [
+      18191,
+      18192
+    ],
+    "Objects": [
+      "v_ilev_mm_fridge_l",
+      "v_ilev_mm_fridge_r"
+    ]
+  },
+  {
+    "Index": 528,
+    "Title": "Search Fridge #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18193
+    ],
+    "ObjectAnims": [
+      18194,
+      18195
+    ],
+    "Objects": [
+      "v_ilev_mm_fridge_l",
+      "v_ilev_mm_fridge_r"
+    ]
+  },
+  {
+    "Index": 529,
+    "Title": "Sit on Chairs and Chat",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18207,
+      18206
+    ],
+    "ObjectAnims": [
+      18204,
+      18205
+    ],
+    "Objects": [
+      "prop_table_03_chr",
+      "prop_table_03_chr"
+    ]
+  },
+  {
+    "Index": 530,
+    "Title": "Lamar and Stretch Chat #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18209,
+      18210
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 531,
+    "Title": "Lamar and Stretch Chat #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18215,
+      18216
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 532,
+    "Title": "Lamar and Stretch Chat #3",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18217,
+      18218
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 533,
+    "Title": "Lamar and Stretch Chat #4",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18219,
+      18220
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 534,
+    "Title": "Lamar and Stretch Chat #5",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18221,
+      18222
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 535,
+    "Title": "Talk on Couch #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18340,
+      18341
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 536,
+    "Title": "Talk on Couch #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18342,
+      18343
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 537,
+    "Title": "Talk on Couch #3",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18344,
+      18345
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 538,
+    "Title": "Green Juice Tastes Nasty",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18372
+    ],
+    "ObjectAnims": [
+      18373
+    ],
+    "Objects": [
+      "p_w_grass_gls_s"
+    ]
+  },
+  {
+    "Index": 539,
+    "Title": "Amanda and Tracey Shopping",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18375,
+      18382
+    ],
+    "ObjectAnims": [
+      18376,
+      18377,
+      18378,
+      18379,
+      18380
+    ],
+    "Objects": [
+      "prop_shopping_bags01",
+      "prop_shopping_bags02",
+      "prop_shopping_bags01",
+      "prop_shopping_bags02",
+      "v_ilev_mm_doorm_l"
+    ]
+  },
+  {
+    "Index": 540,
+    "Title": "Amanda and Jimmy Shopping",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18383,
+      18390
+    ],
+    "ObjectAnims": [
+      18384,
+      18385,
+      18386,
+      18387,
+      18388
+    ],
+    "Objects": [
+      "prop_shopping_bags01",
+      "prop_shopping_bags02",
+      "prop_shopping_bags01",
+      "prop_shopping_bags02",
+      "v_ilev_mm_doorm_l"
+    ]
+  },
+  {
+    "Index": 541,
+    "Title": "Give Drunk Girl Money #1",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18475,
+      18476
+    ],
+    "ObjectAnims": [
+      18474
+    ],
+    "Objects": [
+      "prop_cash_note_01"
+    ]
+  },
+  {
+    "Index": 542,
+    "Title": "Give Drunk Girl Money #2",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18479,
+      184780
+    ],
+    "ObjectAnims": [
+      18478
+    ],
+    "Objects": [
+      "prop_cash_note_01"
+    ]
+  },
+  {
+    "Index": 543,
+    "Title": "Give Drunk Girl Money #3",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18483,
+      18484
+    ],
+    "ObjectAnims": [
+      18482
+    ],
+    "Objects": [
+      "prop_cash_note_01"
+    ]
+  },
+  {
+    "Index": 544,
+    "Title": "Tracey and Boy in Room",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18514,
+      18512
+    ],
+    "ObjectAnims": [
+      18513
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 545,
+    "Title": "Jimmy and Tracy Argue #1",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18556,
+      18557
+    ],
+    "ObjectAnims": [
+      18554,
+      18555
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw",
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 546,
+    "Title": "Jimmy and Tracy Argue #2",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18564,
+      18565
+    ],
+    "ObjectAnims": [
+      18562,
+      18563
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw",
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 547,
+    "Title": "Jimmy and Tracy Argue #3",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18572,
+      18573
+    ],
+    "ObjectAnims": [
+      18570,
+      18771
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw",
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 548,
+    "Title": "Jimmy and Tracy Argue #4",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18588,
+      18589
+    ],
+    "ObjectAnims": [
+      18586,
+      18587
+    ],
+    "Objects": [
+      "v_ilev_mm_doorw",
+      "v_ilev_mm_doorw"
+    ]
+  },
+  {
+    "Index": 549,
+    "Title": "Pull Grenade Pin with Teeth",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18606
+    ],
+    "ObjectAnims": [
+      18605
+    ],
+    "Objects": [
+      "w_ex_grenadefrag"
+    ]
+  },
+  {
+    "Index": 550,
+    "Title": "Lovers Embrace #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18610,
+      18609
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 551,
+    "Title": "Lovers Embrace #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18612,
+      18611
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 552,
+    "Title": "Lovers Embrace #3",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18614,
+      18613
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 553,
+    "Title": "Trevor and Patricia Chat #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18628,
+      18627
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 554,
+    "Title": "Trevor and Patricia Chat #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18630,
+      18629
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 555,
+    "Title": "Trevor and Patricia Chat #3",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      18632,
+      18631
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 556,
+    "Title": "Use Meat as Cover",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11594
+    ],
+    "ObjectAnims": [
+      11593
+    ],
+    "Objects": [
+      "v_ind_coo_half"
+    ]
+  },
+  {
+    "Index": 557,
+    "Title": "Let into Apartment #1",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22068,
+      22069
+    ],
+    "ObjectAnims": [
+      22072
+    ],
+    "Objects": [
+      "hei_heist_apart2_door"
+    ]
+  },
+  {
+    "Index": 558,
+    "Title": "Let into Apartment #2",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22071,
+      22073
+    ],
+    "ObjectAnims": [
+      22070
+    ],
+    "Objects": [
+      "hei_heist_apart2_door"
+    ]
+  },
+  {
+    "Index": 559,
+    "Title": "Jacuzzi Smoking #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22134
+    ],
+    "ObjectAnims": [
+      22139
+    ],
+    "Objects": [
+      "lux_prop_cigar_01_luxe"
+    ]
+  },
+  {
+    "Index": 560,
+    "Title": "Jacuzzi Drinking #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22140
+    ],
+    "ObjectAnims": [
+      22143
+    ],
+    "Objects": [
+      "apa_prop_cs_plastic_cup_01"
+    ]
+  },
+  {
+    "Index": 561,
+    "Title": "Jacuzzi Smoking #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22147
+    ],
+    "ObjectAnims": [
+      22151
+    ],
+    "Objects": [
+      "lux_prop_cigar_01_luxe"
+    ]
+  },
+  {
+    "Index": 562,
+    "Title": "Jacuzzi Drinking #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22153
+    ],
+    "ObjectAnims": [
+      22156
+    ],
+    "Objects": [
+      "apa_prop_cs_plastic_cup_01"
+    ]
+  },
+  {
+    "Index": 563,
+    "Title": "Jacuzzi Smoking #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22164
+    ],
+    "ObjectAnims": [
+      22162
+    ],
+    "Objects": [
+      "lux_prop_cigar_01_luxe"
+    ]
+  },
+  {
+    "Index": 564,
+    "Title": "Jacuzzi Drinking #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      22165
+    ],
+    "ObjectAnims": [
+      22170
+    ],
+    "Objects": [
+      "apa_prop_cs_plastic_cup_01"
+    ]
+  },
+  {
+    "Index": 565,
+    "Title": "Luxor Cigar #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      23925
+    ],
+    "ObjectAnims": [
+      23919,
+      23921
+    ],
+    "Objects": [
+      "lux_prop_cigar_01_luxe",
+      "lux_prop_lighter_luxe"
+    ]
+  },
+  {
+    "Index": 566,
+    "Title": "Luxor Cigar #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      23924
+    ],
+    "ObjectAnims": [
+      23916,
+      23915
+    ],
+    "Objects": [
+      "lux_prop_cigar_01_luxe",
+      "lux_prop_lighter_luxe"
+    ]
+  },
+  {
+    "Index": 567,
+    "Title": "Luxor Cigar #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      23918
+    ],
+    "ObjectAnims": [
+      23923,
+      23926
+    ],
+    "Objects": [
+      "lux_prop_cigar_01_luxe",
+      "lux_prop_lighter_luxe"
+    ]
+  },
+  {
+    "Index": 568,
+    "Title": "Luxor Champagne #1",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      23928
+    ],
+    "ObjectAnims": [
+      23930,
+      23935,
+      23927
+    ],
+    "Objects": [
+      "lux_p_pour_champagne_luxe",
+      "lux_prop_champ_01_luxe",
+      "lux_prop_champ_flute_luxe"
+    ]
+  },
+  {
+    "Index": 569,
+    "Title": "Luxor Champagne #2",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      23929
+    ],
+    "ObjectAnims": [
+      23931,
+      23934,
+      23933
+    ],
+    "Objects": [
+      "lux_p_pour_champagne_luxe",
+      "lux_prop_champ_01_luxe",
+      "lux_prop_champ_flute_luxe"
+    ]
+  },
+  {
+    "Index": 570,
+    "Title": "Luxor Champagne #3",
+    "Category": "Drinking/drugs",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      23932
+    ],
+    "ObjectAnims": [
+      23938,
+      23936
+    ],
+    "Objects": [
+      "lux_p_pour_champagne_luxe",
+      "lux_prop_champ_01_luxe"
+    ]
+  },
+  {
+    "Index": 571,
+    "Title": "Chair Fall",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      25396
+    ],
+    "ObjectAnims": [
+      25397
+    ],
+    "Objects": [
+      "hei_prop_hei_skid_chair"
+    ]
+  },
+  {
+    "Index": 572,
+    "Title": "Plant Thermal Charge",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.1,
+    "ActorAnims": [
+      25401
+    ],
+    "ObjectAnims": [
+      25402
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s"
+    ]
+  },
+  {
+    "Index": 573,
+    "Title": "(Male) Hack Vault Laptop Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.4,
+    "ActorAnims": [
+      25568
+    ],
+    "ObjectAnims": [
+      25566,
+      25560,
+      25562
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s",
+      "hei_prop_heist_card_hack_02",
+      "hei_prop_hst_laptop"
+    ]
+  },
+  {
+    "Index": 574,
+    "Title": "(Male) Hack Vault Laptop Loop",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.4,
+    "ActorAnims": [
+      25558
+    ],
+    "ObjectAnims": [
+      25570,
+      25563,
+      25565
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s",
+      "hei_prop_heist_card_hack_02",
+      "hei_prop_hst_laptop"
+    ]
+  },
+  {
+    "Index": 575,
+    "Title": "(Male) Hack Vault Laptop Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.4,
+    "ActorAnims": [
+      25567
+    ],
+    "ObjectAnims": [
+      25557,
+      25571,
+      25564
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s",
+      "hei_prop_heist_card_hack_02",
+      "hei_prop_hst_laptop"
+    ]
+  },
+  {
+    "Index": 576,
+    "Title": "(Male) Grab Cash Intro",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      25605
+    ],
+    "ObjectAnims": [
+      25600
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s"
+    ]
+  },
+  {
+    "Index": 577,
+    "Title": "(Male) Grab Cash Base",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      25606
+    ],
+    "ObjectAnims": [
+      25591,
+      25604,
+      1493
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s",
+      "hei_prop_hei_cash_trolly_01",
+      "hei_prop_heist_cash_pile"
+    ]
+  },
+  {
+    "Index": 578,
+    "Title": "(Male) Grab Cash Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      25622
+    ],
+    "ObjectAnims": [
+      25588
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s"
+    ]
+  },
+  {
+    "Index": 579,
+    "Title": "(Male) CEO Chair Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      26659
+    ],
+    "ObjectAnims": [
+      26656
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 580,
+    "Title": "(Male) CEO Chair #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26658
+    ],
+    "ObjectAnims": [
+      26651
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 581,
+    "Title": "(Male) CEO Chair #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26654
+    ],
+    "ObjectAnims": [
+      26662
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 582,
+    "Title": "(Male) CEO Chair #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26645
+    ],
+    "ObjectAnims": [
+      26653
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 583,
+    "Title": "(Male) CEO Chair #4",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26655
+    ],
+    "ObjectAnims": [
+      26661
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 584,
+    "Title": "(Male) CEO Chair #5",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26663
+    ],
+    "ObjectAnims": [
+      26649
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 585,
+    "Title": "(Male) CEO Chair Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26666
+    ],
+    "ObjectAnims": [
+      26650
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 586,
+    "Title": "(Female) CEO Chair Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26677
+    ],
+    "ObjectAnims": [
+      26678
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 587,
+    "Title": "(Female) CEO Chair #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26668
+    ],
+    "ObjectAnims": [
+      26682
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 588,
+    "Title": "(Female) CEO Chair #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26685
+    ],
+    "ObjectAnims": [
+      26671
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 589,
+    "Title": "(Female) CEO Chair #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26676
+    ],
+    "ObjectAnims": [
+      26672
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 590,
+    "Title": "(Female) CEO Chair #4",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26675
+    ],
+    "ObjectAnims": [
+      26679
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 591,
+    "Title": "(Female) CEO Chair #5",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26681
+    ],
+    "ObjectAnims": [
+      26686
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 592,
+    "Title": "(Female) CEO Chair Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26687
+    ],
+    "ObjectAnims": [
+      26673
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 593,
+    "Title": "Open CEO Safe",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26632
+    ],
+    "ObjectAnims": [
+      26631
+    ],
+    "Objects": [
+      "ex_prop_safedoor_office2a_r"
+    ]
+  },
+  {
+    "Index": 594,
+    "Title": "Close CEO Safe",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      26629
+    ],
+    "ObjectAnims": [
+      26630
+    ],
+    "Objects": [
+      "ex_prop_safedoor_office2a_r"
+    ]
+  },
+  {
+    "Index": 595,
+    "Title": "Boardroom Boss Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      27332
+    ],
+    "ObjectAnims": [
+      27335
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 596,
+    "Title": "Boardroom Boss #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      27338
+    ],
+    "ObjectAnims": [
+      27339
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 597,
+    "Title": "Boardroom Boss #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      27341
+    ],
+    "ObjectAnims": [
+      27342
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 598,
+    "Title": "Boardroom Boss #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      27345
+    ],
+    "ObjectAnims": [
+      27347
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 599,
+    "Title": "Boardroom Boss #4",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      27352
+    ],
+    "ObjectAnims": [
+      27349
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 600,
+    "Title": "Boardroom Boss #5",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      27353
+    ],
+    "ObjectAnims": [
+      27354
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 601,
+    "Title": "Boardroom Boss Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      27359
+    ],
+    "ObjectAnims": [
+      27344
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_03"
+    ]
+  },
+  {
+    "Index": 602,
+    "Title": "Franklin and Dom Banter",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      83371,
+      83370
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 603,
+    "Title": "Josh Gate #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      83429
+    ],
+    "ObjectAnims": [
+      83432
+    ],
+    "Objects": [
+      "prop_lrggate_01c_l"
+    ]
+  },
+  {
+    "Index": 604,
+    "Title": "Josh Gate #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      83434
+    ],
+    "ObjectAnims": [
+      83430
+    ],
+    "Objects": [
+      "prop_lrggate_01c_l"
+    ]
+  },
+  {
+    "Index": 605,
+    "Title": "Knock on Motel Door",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -5.1,
+    "ActorAnims": [
+      83473
+    ],
+    "ObjectAnims": [
+      83472
+    ],
+    "Objects": [
+      "prop_motel_door_09"
+    ]
+  },
+  {
+    "Index": 606,
+    "Title": "Amanda Arrested",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": -3.2,
+    "ActorAnims": [
+      83486,
+      83488,
+      83497
+    ],
+    "ObjectAnims": [
+      83493
+    ],
+    "Objects": [
+      "police3"
+    ]
+  },
+  {
+    "Index": 607,
+    "Title": "Rescue Amanda",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": -3.2,
+    "ActorAnims": [
+      83490,
+      83492
+    ],
+    "ObjectAnims": [
+      83487,
+      83495,
+      83496
+    ],
+    "Objects": [
+      "police3",
+      "prop_cs_cuffs_01",
+      "      prop_cuff_keys_01"
+    ]
+  },
+  {
+    "Index": 608,
+    "Title": "Rockstar with Groupie #1",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      83539,
+      83541
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 609,
+    "Title": "Rockstar with Groupie #2",
+    "Category": "Friendly interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -0.2,
+    "ActorAnims": [
+      83548,
+      83547
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 610,
+    "Title": "Dogging",
+    "Category": "Explicit",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      83720,
+      83718
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 611,
+    "Title": "Drug Deal",
+    "Category": "Other",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      83729,
+      83727,
+      83728,
+      83732
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 612,
+    "Title": "Hiding in Dumpster Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      83750
+    ],
+    "ObjectAnims": [
+      83751,
+      83752,
+      83737
+    ],
+    "Objects": [
+      "prop_cs_dumpster_01a",
+      "prop_cs_dumpster_lidl",
+      "prop_cs_dumpster_lidr"
+    ]
+  },
+  {
+    "Index": 613,
+    "Title": "Hiding in Dumpster #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      83739
+    ],
+    "ObjectAnims": [
+      83741,
+      83744,
+      83745
+    ],
+    "Objects": [
+      "prop_cs_dumpster_01a",
+      "prop_cs_dumpster_lidl",
+      "prop_cs_dumpster_lidr"
+    ]
+  },
+  {
+    "Index": 614,
+    "Title": "Hiding in Dumpster #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      83746
+    ],
+    "ObjectAnims": [
+      83749,
+      83747,
+      83748
+    ],
+    "Objects": [
+      "prop_cs_dumpster_01a",
+      "prop_cs_dumpster_lidl",
+      "prop_cs_dumpster_lidr"
+    ]
+  },
+  {
+    "Index": 615,
+    "Title": "Hiding in Dumpster Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.5,
+    "ActorAnims": [
+      83738
+    ],
+    "ObjectAnims": [
+      83740,
+      83742,
+      83743
+    ],
+    "Objects": [
+      "prop_cs_dumpster_01a",
+      "prop_cs_dumpster_lidl",
+      "prop_cs_dumpster_lidr"
+    ]
+  },
+  {
+    "Index": 616,
+    "Title": "Poppy Arrested",
+    "Category": "Vehicle",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      83755,
+      83757
+    ],
+    "ObjectAnims": [
+      83754,
+      83756
+    ],
+    "Objects": [
+      "police3",
+      "rapidgt2"
+    ]
+  },
+  {
+    "Index": 617,
+    "Title": "Clubhouse Boss Sit Down",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      97871
+    ],
+    "ObjectAnims": [
+      97867
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_01"
+    ]
+  },
+  {
+    "Index": 618,
+    "Title": "Clubhouse Boss Get Up",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      97875
+    ],
+    "ObjectAnims": [
+      97863
+    ],
+    "Objects": [
+      "ex_prop_offchair_exec_01"
+    ]
+  },
+  {
+    "Index": 619,
+    "Title": "Clubhouse Backwards Chair Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      97926
+    ],
+    "ObjectAnims": [
+      97927
+    ],
+    "Objects": [
+      "bkr_prop_clubhouse_chair_01"
+    ]
+  },
+  {
+    "Index": 620,
+    "Title": "Clubhouse Backwards Chair #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      97929
+    ],
+    "ObjectAnims": [
+      97930
+    ],
+    "Objects": [
+      "bkr_prop_clubhouse_chair_01"
+    ]
+  },
+  {
+    "Index": 621,
+    "Title": "Clubhouse Backwards Chair #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      97932
+    ],
+    "ObjectAnims": [
+      97923
+    ],
+    "Objects": [
+      "bkr_prop_clubhouse_chair_01"
+    ]
+  },
+  {
+    "Index": 622,
+    "Title": "Clubhouse Backwards Chair #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      97924
+    ],
+    "ObjectAnims": [
+      97931
+    ],
+    "Objects": [
+      "bkr_prop_clubhouse_chair_01"
+    ]
+  },
+  {
+    "Index": 623,
+    "Title": "Clubhouse Backwards Chair Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.4,
+    "ActorAnims": [
+      97922
+    ],
+    "ObjectAnims": [
+      97928
+    ],
+    "Objects": [
+      "bkr_prop_clubhouse_chair_01"
+    ]
+  },
+  {
+    "Index": 624,
+    "Title": "Fleeca Bank Drill Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.23,
+    "ActorAnims": [
+      25913
+    ],
+    "ObjectAnims": [
+      25929
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s"
+    ]
+  },
+  {
+    "Index": 625,
+    "Title": "(Female) Grab Cash Intro",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      25605
+    ],
+    "ObjectAnims": [
+      25601
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s"
+    ]
+  },
+  {
+    "Index": 626,
+    "Title": "(Female) Grab Cash Base",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      25606
+    ],
+    "ObjectAnims": [
+      25598,
+      25604,
+      1493
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s",
+      "hei_prop_hei_cash_trolly_01",
+      "hei_prop_heist_cash_pile"
+    ]
+  },
+  {
+    "Index": 627,
+    "Title": "(Female) Grab Cash Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.6,
+    "ActorAnims": [
+      25622
+    ],
+    "ObjectAnims": [
+      25587
+    ],
+    "Objects": [
+      "hei_p_m_bag_var22_arm_s"
+    ]
+  },
+  {
+    "Index": 628,
+    "Title": "Prologue Set C4 Mainaction ",
+    "Category": "Aggressive interaction",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11828,
+      11829,
+      11830
+    ],
+    "ObjectAnims": [],
+    "Objects": []
+  },
+  {
+    "Index": 629,
+    "Title": "Narcotics Trevor Phone #1",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      25090
+    ],
+    "ObjectAnims": [
+      25094
+    ],
+    "Objects": [
+      "prop_npc_phone"
+    ]
+  },
+  {
+    "Index": 630,
+    "Title": "Narcotics Trevor Phone #2",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      25089
+    ],
+    "ObjectAnims": [
+      25095
+    ],
+    "Objects": [
+      "prop_npc_phone"
+    ]
+  },
+  {
+    "Index": 631,
+    "Title": "Narcotics Trevor Phone #3",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      25696
+    ],
+    "ObjectAnims": [
+      25695
+    ],
+    "Objects": [
+      "prop_npc_phone"
+    ]
+  },
+  {
+    "Index": 632,
+    "Title": "Narcotics Trevor Phone #4",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      25697
+    ],
+    "ObjectAnims": [
+      25694
+    ],
+    "Objects": [
+      "prop_npc_phone"
+    ]
+  },
+  {
+    "Index": 633,
+    "Title": "Briefcase #1 Enter",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.95,
+    "ActorAnims": [
+      25703
+    ],
+    "ObjectAnims": [
+      25704
+    ],
+    "Objects": [
+      "hei_p_attache_case_01b_s"
+    ]
+  },
+  {
+    "Index": 634,
+    "Title": "Briefcase #2 Loop",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.95,
+    "ActorAnims": [
+      25706
+    ],
+    "ObjectAnims": [
+      1456
+    ],
+    "Objects": [
+      "hei_p_attache_case_01b_s"
+    ]
+  },
+  {
+    "Index": 635,
+    "Title": "Briefcase #3 Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -0.95,
+    "ActorAnims": [
+      1453
+    ],
+    "ObjectAnims": [
+      1454
+    ],
+    "Objects": [
+      "hei_p_attache_case_01b_s"
+    ]
+  },
+  {
+    "Index": 636,
+    "Title": "Newspaper Loop",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11633
+    ],
+    "ObjectAnims": [
+      11634
+    ],
+    "Objects": [
+      "p_cs_newspaper_s"
+    ]
+  },
+  {
+    "Index": 637,
+    "Title": "Newspaper Idle",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11631
+    ],
+    "ObjectAnims": [
+      11632
+    ],
+    "Objects": [
+      "p_cs_newspaper_s"
+    ]
+  },
+  {
+    "Index": 638,
+    "Title": "Newspaper Exit",
+    "Category": "Individual w/props",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      11635
+    ],
+    "ObjectAnims": [
+      11636
+    ],
+    "Objects": [
+      "p_cs_newspaper_s"
+    ]
+  },
+  {
+    "Index": 639,
+    "Title": "Coke: Doll Base #1",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": -1.0,
+    "ActorAnims": [
+      98722
+    ],
+    "ObjectAnims": [
+      98717,
+      98724,
+      98723,
+      98720,
+      98716
+    ],
+    "Objects": [
+      "bkr_prop_coke_dollcast",
+      "bkr_prop_coke_dollmould",
+      "bkr_prop_coke_dollboxfolded",
+      "bkr_prop_coke_fullscoop_01a",
+      "bkr_prop_coke_press_01aa"
+    ]
+  },
+  {
+    "Index": 640,
+    "Title": "Fake Money: Test #1",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.5,
+    "ActorAnims": [
+      98856
+    ],
+    "ObjectAnims": [
+      98858,
+      98857,
+      98859,
+      98861,
+      98862
+    ],
+    "Objects": [
+      "bkr_prop_fakeid_papercutter",
+      "bkr_prop_cutter_moneystack_01a",
+      "bkr_prop_cutter_moneypage",
+      "bkr_prop_cutter_moneystrip",
+      "bkr_prop_cutter_singlestack_01a"
+    ]
+  },
+  {
+    "Index": 641,
+    "Title": "Fake Money: Test #2",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.5,
+    "ActorAnims": [
+      98863
+    ],
+    "ObjectAnims": [
+      98865,
+      98864,
+      98866,
+      98867,
+      98868
+    ],
+    "Objects": [
+      "bkr_prop_fakeid_papercutter",
+      "bkr_prop_cutter_moneystack_01a",
+      "bkr_prop_cutter_moneypage",
+      "bkr_prop_cutter_moneystrip",
+      "bkr_prop_cutter_singlestack_01a"
+    ]
+  },
+  {
+    "Index": 642,
+    "Title": "Eating Stew",
+    "Category": "Broken/WIP",
+    "ActorsAligned": true,
+    "DeltaZ": 0.0,
+    "ActorAnims": [
+      82595
+    ],
+    "ObjectAnims": [
+      82596,
+      82594
+    ],
+    "Objects": [
+      "p_cs_bowl_01b_s",
+      "prop_cs_fork"
+    ]
+  }
+]
